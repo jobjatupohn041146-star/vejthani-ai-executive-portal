@@ -45,6 +45,7 @@ function sourceStaticPlugin() {
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: './',
   plugins: [react(), sourceStaticPlugin()],
   define: {
     __BUILD_TIME__: JSON.stringify(new Date().toISOString()),

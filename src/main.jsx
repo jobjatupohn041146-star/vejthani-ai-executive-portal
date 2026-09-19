@@ -107,7 +107,9 @@ const displayFileTitle = (item) => {
   return clean.length > 45 ? `${clean.slice(0, 45).trim()}…` : clean;
 };
 
-const fileUrl = (item) => `/source/${encodeURI(item.title)}`;
+const BASE = (import.meta.env.BASE_URL || './').endsWith('/') ? (import.meta.env.BASE_URL || './') : `${import.meta.env.BASE_URL}/`;
+const assetUrl = (p) => `${BASE}${p.replace(/^\//, '')}`;
+const fileUrl = (item) => assetUrl(`source/${encodeURI(item?.title || '')}`);
 
 function getFileExtension(title) {
   if (!title) return 'file';
@@ -738,7 +740,7 @@ function ExecutiveFormalReport({ onBack }) {
       <div className="a4-page">
         <div>
           <div className="a4-page-header">
-            <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '54px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+            <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '54px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
             <span>EXECUTIVE BRIEFING · A4 FORMAL</span>
           </div>
           <div style={{ marginTop: '2.5rem', marginBottom: '2.5rem' }}>
@@ -787,7 +789,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 02 · EXECUTIVE SUMMARY (BLUF: READ IN 60 SECONDS)</h2>
             </div>
             <span>Vejthani AI Report</span>
@@ -830,7 +832,7 @@ function ExecutiveFormalReport({ onBack }) {
             <li>จัดทำ ROPA & PDPA Compliance Audit ประจำไตรมาสเพื่อความปลอดภัย 100%</li>
           </ol>
 
-          <img src="/source/1AI%20Backlog%20Killer.png" alt="AI Backlog Killer Architecture" style={{ width: '100%', maxHeight: '250px', objectFit: 'contain', margin: '0.8rem 0', borderRadius: '8px', border: '1px solid #cbd5e1' }} />
+          <img src={assetUrl('source/1AI%20Backlog%20Killer.png')} alt="AI Backlog Killer Architecture" style={{ width: '100%', maxHeight: '250px', objectFit: 'contain', margin: '0.8rem 0', borderRadius: '8px', border: '1px solid #cbd5e1' }} />
         </div>
         <div className="a4-page-footer">
           <span>Vejthani Hospital Executive Report</span>
@@ -843,7 +845,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 03 · 4 STRATEGIC PILLARS ARCHITECTURE & FLOW DIAGRAM</h2>
             </div>
             <span>Strategy Architecture</span>
@@ -910,7 +912,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 04 · AI BACKLOG KILLER ANALYSIS & AUTOMATION GRID</h2>
             </div>
             <span>Process Automation</span>
@@ -978,7 +980,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 05 · AI FUTURE RADAR & TECHNOLOGY ADOPTION CURVE</h2>
             </div>
             <span>Technology Horizons</span>
@@ -1062,7 +1064,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 06 · DEPARTMENT IMPACT MATRIX (OPD, IPD, CLINICAL, OPS)</h2>
             </div>
             <span>Department Matrix</span>
@@ -1152,7 +1154,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 07 · FINANCIAL ROI & ECONOMIC MODELING (10,000M THB TARGET)</h2>
             </div>
             <span>Financial Modeling</span>
@@ -1246,7 +1248,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 08 · RISK MANAGEMENT, JCI v8 & PDPA COMPLIANCE FRAMEWORK</h2>
             </div>
             <span>Governance & Compliance</span>
@@ -1322,7 +1324,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 09 · 90-DAY TACTICAL EXECUTION ROADMAP & MILESTONE TARGETS</h2>
             </div>
             <span>Tactical Roadmap</span>
@@ -1332,7 +1334,7 @@ function ExecutiveFormalReport({ onBack }) {
             แผนปฏิบัติการเชิงยุทธศาสตร์ 90 วัน แบ่งเป็น 3 ระยะ พร้อมเกณฑ์ชี้วัดความสำเร็จ (Milestone Gates) เพื่อการขยายผลอย่างเป็นรูปธรรม
           </p>
 
-          <img src="/source/1AI%20FUTURE%20RADAR.png" alt="AI Future Radar Matrix" style={{ width: '100%', maxHeight: '250px', objectFit: 'contain', margin: '0.8rem 0', borderRadius: '8px', border: '1px solid #cbd5e1' }} />
+          <img src={assetUrl('source/1AI%20FUTURE%20RADAR.png')} alt="AI Future Radar Matrix" style={{ width: '100%', maxHeight: '250px', objectFit: 'contain', margin: '0.8rem 0', borderRadius: '8px', border: '1px solid #cbd5e1' }} />
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem', marginBottom: '0.8rem' }}>
             <div style={{ background: '#f8fafc', padding: '0.75rem 0.9rem', borderRadius: '10px', borderLeft: '5px solid #0284c7' }}>
@@ -1387,7 +1389,7 @@ function ExecutiveFormalReport({ onBack }) {
         <div>
           <div className="a4-page-header">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-              <img src="/vejthani-logo.png" alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+              <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" style={{ height: '30px', objectFit: 'contain' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
               <h2>PAGE 10 · EXECUTIVE SIGN-OFF & GOVERNANCE COMMITTEE</h2>
             </div>
             <span>Official Endorsement</span>
@@ -1534,7 +1536,7 @@ function App() {
 
       <aside className={`sidebar ${menu ? 'open' : ''}`}>
         <button className="sidebar-brand" onClick={() => { setView('Overview'); setMenu(false); }}>
-          <img src="/vejthani-logo.png" alt="Vejthani Hospital" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+          <img src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
           <small>AI Executive Portal</small>
         </button>
         <div className="sidebar-actions">
@@ -1563,7 +1565,7 @@ function App() {
       <div className="content-shell">
         <header className="topbar">
           <button className="brand" onClick={() => setView('Overview')} aria-label="กลับหน้า Overview">
-            <img className="brand-logo" src="/vejthani-logo.png" alt="Vejthani Hospital" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+            <img className="brand-logo" src={assetUrl('vejthani-logo.png')} alt="Vejthani Hospital" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
             <span><b>VEJTHANI <em>×</em> AI STRATEGY 2026</b></span>
           </button>
 
