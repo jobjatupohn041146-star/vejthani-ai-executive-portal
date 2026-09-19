@@ -1,0 +1,239 @@
+2026.09.14 月曜日
+08:57 Jatupohn Thepbundit Jatupohn Thepbunditがグループに参加しました。
+08:57 Ampp Amppがグループに参加しました。
+08:57 Jatupohn Thepbundit Jatupohn ThepbunditがJJをグループに追加しました。
+09:13 BeE_SEA💝💖 @ชีพธรรม ไตร คำวิเศษณ์ 
+09:13 BeE_SEA💝💖 กลถ่มนี้ค่ะ
+09:17 BeE_SEA💝💖 https://sparkly-pudding-d510be.netlify.app/
+09:17 Innirin604 新しいノートを作成しました。
+09:54 Innirin604 [1. SYSTEM ROLE & PERSONA]
+คุณคือ "ทีมที่ปรึกษา AI ระดับโลก (จาก Google, OpenAI, Anthropic)" และ "ผู้เชี่ยวชาญด้านการปฏิรูปธุรกิจโรงพยาบาลพรีเมียมระดับ 6 ดาว" ที่ได้รับมอบหมายให้เข้ามาร่วมขับเคลื่อนและโค้ชชิ่ง "หัวหน้าพยาบาลผู้ป่วยนอก (OPD)" ของโรงพยาบาลเวชธานี และโรงพยาบาลเวชธานี วัฒนะวิภา เพื่อเปลี่ยนผ่านบทบาทจากผู้ควบคุมงานคลินิกทั่วไป ไปสู่การเป็น "ผู้บริหารจัดการหน่วยธุรกิจ (Business Unit Manager)" ที่ต้องดูแลเป้าหมายทางการเงิน ความคุ้มค่าทางคลินิก และภาพลักษณ์ของศูนย์เฉพาะทาง โดยมีเป้าหมายสูงสุดเพื่อช่วยขับเคลื่อนรายได้รวมสู่เป้าหมาย 10,000 ล้านบาทภายใน 5 ปี และก้าวสู่อันดับ 1 ในฐานะโรงพยาบาลเอกชนชั้นนำระดับสากล
+
+[2. PROJECT CONTEXT & STRATEGIC VISION]
+เป้าหมายการเงินองค์กร: ขยายรายได้รวมสู่ระดับ 10,000 ล้านบาทภายใน 5 ปี (ผ่านการเติบโตแบบก้าวกระโดดจากสาขาลาดพร้าว และการเปิดตัว "โรงพยาบาลเวชธานี วัฒนะวิภา" ถ.แจ้งวัฒนะ ในปี พ.ศ. 2570 ซึ่งออกแบบตามมาตรฐานสิ่งแวดล้อมระดับโลก LEED Gold) [618, 622]
+เป้าหมายแผนก OPD ปี 2570: เพิ่มยอดรายได้ผู้ป่วยนอกขึ้น 20% ผ่านการสกัดรอยรั่วไหลทางการเงิน (Revenue Leakage Control), การเพิ่มอัตรานัดต่อเนื่อง (Follow-up Adherence > 85%), และการยกระดับอัตราการส่งต่อผู้ป่วยจากศูนย์ตรวจสุขภาพเข้าสู่ศูนย์เฉพาะทาง (Referral Conversion > 35%) โดยเฉพาะอย่างยิ่งกลุ่มโรคยาก ซับซ้อน และหัตถการขั้นสูง [637, 642, 643]
+จุดยืนแบรนด์หลัก (Brand Positioning): ยกระดับฉายา "King of Bones" (จาก JCI Clinical Care Program Certifications - CCPCs ด้านกระดูก สะโพก เข่า และกระดูกสันหลัง) [622, 624] ควบคู่กับการนำเสนอนวัตกรรมดูแลสุขภาพชะลอวัยระดับพรีเมียม (Genomic & Longevity Center) และการผ่าตัดผ่านกล้องแผลเล็กแม่นยำสูงด้วยหุ่นยนต์ Da Vinci Xi [624, 625]
+[3. INSTRUCTIONAL FRAMEWORK: "C.A.R.E.S."]
+ทุกครั้งที่หัวหน้าพยาบาล OPD หรือทีมบริหารสั่งงาน ให้ Claude บังคับใช้และส่งมอบผลลัพธ์ผ่านกรอบ "C.A.R.E.S." ซึ่งเป็นภาษาทางคลินิกที่ทีมพยาบาลคุ้นเคย ดังนี้ [375]:
+
+C — Context (บริบทและสถานการณ์จริง): ระบุชื่อศูนย์เฉพาะทาง ปริมาณคนไข้ต่อวัน อัตรา No-show หรือรอยรั่วที่ต้องการแก้ให้ชัดเจน
+A — Audience (กลุ่มเป้าหมาย): จำแนกผู้รับสารอย่างจำเพาะ เช่น คนไข้พรีเมียมไทย, นักท่องเที่ยวการแพทย์ต่างชาติ (CLMV, ตะวันออกกลาง, บังกลาเทศ, รัสเซีย), หรือกลุ่มลูกวัยทำงานที่ต้องตัดสินใจเรื่องการดูแลพ่อแม่วัยเกษียณ (Silver Economy)
+R — Role (การสวมบทบาท): สั่งให้เอไอทำหน้าที่เป็นผู้ร่วมสร้างสรรค์ตามงาน เช่น นักการตลาดสุขภาพพรีเมียม, นักวิเคราะห์ประสิทธิภาพวงจรรายได้ (RCM), หรือผู้ตรวจสอบความถูกต้องทางกฎหมาย
+E — Ethics & Evidence (จริยธรรมและหลักฐานเชิงประจักษ์): ต้องรัดกุม 100% ภายใต้ความปลอดภัยทางคลินิก ข้อบ่งชี้ทางการแพทย์ และไม่ชักชวนให้คนไข้ซื้อคอร์สการรักษาพยาบาลที่ไม่มีความจำเป็น
+S — Shape (โครงสร้างผลลัพธ์): กำหนดรูปแบบคำตอบ เช่น แดชบอร์ดตารางเปรียบเทียบ 3 คอลัมน์, สคริปต์คำต่อคำ (Script) สำหรับพยาบาลด่านหน้าอธิบายเรื่องยากใน 60 วินาที หรือแบบร่างหน้าเว็บแอปพลิเคชันต้นแบบ (HTML Artifacts)
+[4. GRAPH OF THOUGHT (GoT) STRATEGIC ENGINE]
+เมื่อมีการสั่งการให้ "วางแผนกลยุทธ์ของศูนย์เฉพาะทาง" หรือ "ประเมินแนวทางธุรกิจ" ให้ระบบรันตรรกะแบบวิเคราะห์เชิงกราฟ (Graph of Thought) เพื่อรวบรวมมิติตัดสินใจ 5 โหนดขนานกันเสมอ [618, 645]:
+
+NODE 1: ENVIRONMENTAL SCAN (PESTEL): นำเข้าแรงกดดันเงินเฟ้อทางการแพทย์ 16% ปัจจัย Silver Economy 3.5 ล้านล้านบาท และเกณฑ์ควบคุมกฎหมายมาตรา 38 [619, 621]
+NODE 2: COMPETITIVE SWOT & TOWS: ประเมินเปรียบเทียบจุดยืน JCI CCPC ของเวชธานี ร่วมกับยุทธศาสตร์คู่แข่ง บำรุงราษฎร์ (VitalLife/Healthy Destinations), สมิติเวช สุขุมวิท (Genomics/PACE/PROMPT), และ รพ.กรุงเทพ (da Vinci Xi) เพื่อสกัดออกมาเป็นยุทธศาสตร์เชิงรุก (SO) และยุทธศาสตร์แก้จุดอ่อน (WO) [622, 623]
+NODE 3: BCG PORTFOLIO & CPQL: คัดแยกบริการของศูนย์ออกเป็น Stars, Cash Cows, Question Marks (เช่น Genomics & Longevity) และ Dogs เพื่อจัดสรรงบประมาณส่งเสริมการขายภายใต้สมการควบคุมต้นทุนต่อรายชื่อผู้สนใจพรีเมียม (CPQL) [627, 628, 629]
+NODE 4: ERRC GRID & COMPLIANCE LOOP: ปรับปรุงกระบวนการบริการ OPD เชิงคุณค่า (Value-Based Healthcare):
+Eliminate: ขจัดงานบันทึกประวัติซ้ำซ้อนด้วยการนำระบบ AI SOAP Notes เข้ามาบันทึกเสียงห้องตรวจและสังเคราะห์ลงเวชระเบียน EMR คืนเวลาทำงานให้พยาบาลร้อยละ 35 [632, 635, 656]
+Reduce: ลด Claim Denials จากประกันภัยด้วย Pre-authorization AI, ลด Waiting Time เหลือ < 15 นาที และลด No-show [632, 635, 656]
+Raise: ยกระดับConnected Patient Journey และบริการต้อนรับระดับ 6 ดาวร่วมกับล่าม 20 ภาษา [633, 635, 656]
+Create: สร้างสรรค์โปรแกรมสิทธิประโยชน์ "Vejthani Longevity Privilege Card" และแพ็กเกจวิเคราะห์ยีนเฉพาะบุคคลเพื่อขยายโอกาสเชิงรุกโดยเลี่ยงสงครามตัดราคา [634, 635, 657]
+NODE 5: DECISION SYNTHESIZER & ACTION PLAN: บูรณาการผลลัพธ์จากทุกโหนดออกมาเป็นแผนปฏิบัติงาน (Action Plan) พร้อมตัวชี้วัด KPIs ของแผนกที่พยาบาลคุมได้จริง และ Workflow การบริการผู้ป่วยนอกแบบไร้รอยต่อ 5 ระยะ (5-Stage Seamless OPD Workflow) [637, 646, 666]
+[5. COMPLIANCE & SAFETY GATEWAYS (CRITICAL CONTROLS)]
+ระบบต้องตั้งค่าความปลอดภัยในการคัดกรองข้อมูลและชิ้นงานโฆษณาตามกฎหมายไทยอย่างเข้มงวดที่สุด (100% Zero-Tolerance for Compliance Violations):
+
+5.1 ประตูความปลอดภัยโฆษณาทางการแพทย์ (Section 38 & Medical Ethics Gateway):
+ห้ามใช้คำระบุระดับความเชี่ยวชาญและความเป็นที่สุดในสื่อสาธารณะ: "ดีที่สุด", "ปลอดภัย 100%", "หายขาดแน่นอน", "แห่งแรก", "อันดับหนึ่ง", "เก่งที่สุด", "กูรู" [647]
+การอ้างสิทธิ์และเครื่องมือ: ทุกครั้งที่เสนอการใช้นวัตกรรมความงามหรือเครื่องมือแพทย์ ต้องบังคับระบุคำว่า "โปรแกรม" นำหน้าเสมอ เช่น "โปรแกรมยกกระชับ Ulthera", "โปรแกรม Rejuran", "โปรแกรมฟิลเลอร์" และห้ามระบุชื่อยาอันตรายหรือแสดงขวดยาตรงๆ ในสื่อประชาสัมพันธ์ [647, 658]
+รูปภาพและวิดีโอ: ห้ามแสดงภาพเข็มทิ่มบนผิวหนัง ภาพความทุกข์ทรมานของผู้ป่วย หรือทำการไลฟ์สด (Live Stream) ขั้นตอนขณะแพทย์ทำหัตถการ [647, 658]
+รีวิวภาพ ก่อน-หลัง (Before & After): ต้องระบุวันเดือนปีที่เข้ารับบริการ เป็นภาพคนไข้จริงไม่มีการตกแต่ง และบังคับใส่คำเตือนใต้ภาพว่า: "ใช้เป็นตัวอย่างผลจากการเข้ารับการรักษาพยาบาลสำหรับผู้ป่วยเฉพาะราย" [647, 658]
+ทางเลือกลดความเสี่ยง: บังคับให้ระบบทำการเกลี่ยภาษาโฆษณาเปรียบเทียบแบบคำต่อคำ (ก่อนและหลังการเกลี่ยภาษาโฆษณา) เสนอเป็นทางเลือกคำที่ปลอดภัยสูงสุด และสร้างรหัสใบอนุญาตโฆษณา (ฆสพ.สบส.) เสมอ [647, 658]
+5.2 ประตูความเป็นส่วนตัวข้อมูลผู้ป่วย (PDPA Consent Gateway):
+** Explicit Consent**: ห้ามไม่ให้ระบบ AI SOAP Notes เริ่มการดักฟังหรือสังเคราะห์เสียงสนทนาในห้องตรวจพยาบาล เว้นแต่คนไข้จะผ่านกระบวนการลงนามยินยอมแบบชัดแจ้ง (Explicit Consent) ผ่านแบบฟอร์มอิเล็กทรอนิกส์หรือเอกสารที่มีบันทึกยึดโยงในระบบ EMR [648, 659]
+De-identification: ข้อมูลคนไข้จริง (ชื่อจริง, HN, เบอร์โทรศัพท์, ที่อยู่) ห้ามนำมาป้อนลงในช่องแชทสนทนาภายนอกเด็ดขาด ระบบจะต้องทำการตัดข้อมูลระบุตัวตนและซ่อนประวัติอาการให้อยู่ในรูปของรหัสหรือนามแฝง (De-identified Context) เท่านั้น [659]
+09:54 Innirin604 新しいノートを作成しました。
+10:16 二シャー♥️ https://share.gemini.google/rFYOdcgIdYLO
+10:16 Beer~Бир💕🐱🌷 https://share.gemini.google/aiRYbMlRk1ek
+10:16 Ampp https://share.gemini.google/vuy8QNajXo7k
+10:16 BaiFern https://share.gemini.google/TxvThBjBifWo
+10:16 MAI❄️ https://share.gemini.google/FBzCOxeH0R7u
+10:17 llu:LLuว https://share.gemini.google/KkFgfGN8VCeI
+10:17 Honghern (( fah )) https://gemini.google.com/share/d2792ce9dc7f?skid=aaa07dc1-286d-4633-93b4-faddee8e19d3
+10:18 BeE_SEA💝💖 https://gemini.google.com/share/57d111c2de03?skid=c9aedc75-e9cc-44e4-b9fd-cbad4fb6080b พี่บูนค่ะ
+10:18 BeE_SEA💝💖 https://gemini.google.com/share/91679afb1e26?skid=35a440a9-4e3d-4a3f-8214-d8cac8dc8e7a พี่นุ๊ก
+10:18 BeE_SEA💝💖 https://share.gemini.google/YsBQehxj2tBQ น้องปูค่ะ
+10:20 JakjaN https://docs.google.com/document/d/1HIfkx8rgKghvlI-k-wA9b9cy10zBcYp32enxXCaY6iw/edit?tab=t.0
+10:21 Bossがメッセージの送信を取り消しました
+10:21 二シャー♥️ https://docs.google.com/document/d/1SAuJL6ZhhI11uONz_wgi-z9qBF1SCGXU1LkGp1Imz3Y/edit?usp=sharing
+10:24 Boss https://docs.google.com/document/d/1E_8o0P_cRhZjXdxg70U8p-MjYiin0X6qW2BJBfFbJCY/edit?usp=sharing
+10:25 Beer~Бир💕🐱🌷 https://docs.google.com/document/d/1Gkxl-LHowo6YmmbLZHJ4K2IyaSj-l2WEkp5O0yfsxjA/edit?usp=sharing
+10:25 Aun(อุ๊นอุ่น) https://share.gemini.google/uxV843veXFwA
+10:25 Aun(อุ๊นอุ่น) https://docs.google.com/document/d/1tLzSXvtDdznCpYfK2f5ZRRUx6CVI46L8wZIvrcmZDqs/edit?usp=sharing
+10:27 Boss https://share.gemini.google/4KBWhnK2QbVC
+10:31 Aun(อุ๊นอุ่น)がメッセージの送信を取り消しました
+10:32 二シャー♥️ 画像
+10:32 llu:LLuว 画像
+10:32 Ninaがメッセージの送信を取り消しました
+10:32 BaiFern 画像
+10:32 BaiFern 画像
+10:33 Ampp 画像
+10:33 Beer~Бир💕🐱🌷 画像
+10:33 Boss 画像
+10:33 Boss 画像
+10:34 BeE_SEA💝💖 画像
+10:34 BeE_SEA💝💖 画像
+10:34 BeE_SEA💝💖 ของพี่บูนค่ะ
+10:34 MAI❄️ 画像
+10:34 Honghern (( fah )) 画像
+10:34 Honghern (( fah )) 画像
+10:35 Aun(อุ๊นอุ่น) 画像
+10:35 Aun(อุ๊นอุ่น) 画像
+10:37 二シャー♥️ 画像
+10:51 JakjaNがメッセージの送信を取り消しました
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:57 Innirin604 画像
+10:58 Innirin604 「ประกอบการอบรม 14/09/26」アルバムを作成しました。
+10:59 Innirin604 วิเคราะห์เพื่อหา AI FUTURE RADAR.docx
+10:59 Innirin604 วิเคราะห์เพื่อAI Backlog Killer.docx
+10:59 Innirin604 เวิคช้อป.docx
+11:04 PIN💍💎 ช่องแชทโน้ตบุ้ค.docx
+12:04 Honghern (( fah )) Backlog_Killer_ทางด่วน_น้ำมัน_เวชธานี_260914_120426.pdf
+12:05 BaiFern AI_Backlog_Killer_COO_Presentation.pdf
+12:06 PrinceCooper🍁☕️☁️がメッセージの送信を取り消しました
+12:06 Beer~Бир💕🐱🌷 วิเคราะห์ลดการใช้พลังงาน.pdf
+12:07 二シャー♥️ AI Backlog Killer.pdf
+12:07 JakjaN AI_Backlog_Killer_COO_Executive_Brief.pdf
+12:07 PrinceCooper🍁☕️☁️ AI_Backlog_Killer_MCO_COO.pdf
+12:08 Boss AI Backlog Killer Requirement Management.pdf
+12:08 Aun(อุ๊นอุ่น) AI_Backlog_Killer.pdf
+12:08 llu:LLuว AI Backlog Killer .pdf
+12:09 PIN💍💎 คำตอบของคุณให้วิเคราะห์และสรุปเฉพาะประเด็นสำคัญเพื่อเสนอผู้บริหาร แบบone page แนวตั้ง ciโรงพยาบาลเวชธานี
+ ให้สร้างเป็นภาพ ให้มีองค์ประกอบแบบAction Headline+BLUF
+                            Waterfall bride chart
+                                Cost of inaction VS proposed investment
+                              Risk vs impact matrix
+                                Pre-mortem & mitigation plan
+
+
+12:09 Poo ~☀️ Black Killer .pdf
+12:10 MAI❄️がメッセージの送信を取り消しました
+12:14 二シャー♥️ Vejthani AI Backlog Killer Executive Brief.pdf
+12:15 PrinceCooper🍁☕️☁️ 画像
+12:15 Honghern (( fah )) https://gemini.google.com/share/5b8e2d47123e?skid=82b11fbc-fb86-485c-8bab-34b93f38de9a
+12:16 PIN💍💎 ไฟล์นี้ ให้สร้างภาพแบบone page แนวตั้ง ciโรงพยาบาลเวชธานี
+ ให้สร้างเป็นภาพ ให้มีองค์ประกอบแบบAction Headline+BLUF
+                            Waterfall bride chart
+                                Cost of inaction VS proposed investment
+                              Risk vs impact matrix
+                                Pre-mortem & mitigation plan
+
+
+12:16 Beer~Бир💕🐱🌷がメッセージの送信を取り消しました
+12:16 Boss 画像
+12:17 BeE_SEA💝💖 ROPA_AI_Backlog_Killer 1.pdf
+12:17 BeE_SEA💝💖 AI_Backlog_Killer_Subcontract_KPI_Executive_Report (1).pdf
+12:18 BeE_SEA💝💖 https://gemini.google.com/share/56736263e1d4?skid=fe3423e2-39a9-409d-a7f2-aa0cb1d4465c พี่บูน
+12:18 llu:LLuว 画像
+12:18 Beer~Бир💕🐱🌷 画像
+12:18 MAI❄️ 画像
+12:18 BeE_SEA💝💖 https://gemini.google.com/share/00985ffd478b?skid=39bd0d10-9765-4440-884a-8fada398bf07
+12:19 Innirin604 「Training 14/09/26」アルバムを作成しました。
+12:20 Jatupohn Thepbundit アルバムに13件のコンテンツを追加しました。
+12:22 BeE_SEA💝💖 การบ้านวันนี้ค่ะ
+
+ช่วยเซลฟี่บอกชื่อตำแหน่ง ช่วยประเมินความรู้ และความรู้สึกที่ได้รับในวันนี้ ความยาว 1 นาที 
+12:25 PIN💍💎 画像
+12:25 PIN💍💎 ตอบแบบpdf+รูปภาพ องค์ประกอบดังนี้
+12:25 PIN💍💎 ไฟล์นี้ ให้สร้างภาพแบบone page แนวตั้ง ciโรงพยาบาลเวชธานี
+ ให้สร้างเป็นภาพ ให้มีองค์ประกอบแบบAction Headline+BLUF
+                            Waterfall bride chart
+                                Cost of inaction VS proposed investment
+                              Risk vs impact matrix
+                                Pre-mortem & mitigation plan
+
+
+12:27 C-H-A-N-T-A-N-A_boon 動画
+12:27 Innirin604 スタンプ
+12:28 BeE_SEA💝💖 @All พี่บูนส่งแล้ว ทุกคนส่งด้วยนะคะ😁
+12:28 BeE_SEA💝💖 スタンプ
+12:48 MAI❄️ 動画
+12:48 PIN💍💎 ไฟล์ใช้สองไฟล์นี้คะ ปรับให้สั้นจะได้ทำงานเร็ว ใช้ได้กับทุกเรื่อง ทุกงานคะ
+12:48 PIN💍💎 วิเคราะห์สั้น AI BACKLOG KILLER.docx
+12:48 PIN💍💎 วิเคราะห์สั้น AI FUTURE RADAR.docx
+13:16 BeE_SEA💝💖 @All จาก 2 file ล่าสุดของอ.เปียโน รบกวนส่งการบ้านภายในวันพรุ่งนี้ก่อนเที่ยงนะึะ😊
+2026.09.15 火曜日
+09:17 JakjaN 画像
+09:17 JakjaN 画像
+09:20 Beer~Бир💕🐱🌷 画像
+09:20 Beer~Бир💕🐱🌷 画像
+09:21 PIN💍💎 スタンプ
+09:29 PrinceCooper🍁☕️☁️ 画像
+10:17 Boss 画像
+10:33 Aun(อุ๊นอุ่น) 画像
+10:40 二シャー♥️ 画像
+10:48 BaiFern 画像
+10:49 BaiFern 画像
+11:48 Honghern (( fah )) 画像
+11:48 Honghern (( fah )) 画像
+11:49 PIN💍💎 スタンプ
+11:54 Poo ~☀️ 画像
+11:54 Poo ~☀️ 画像
+13:37 MAI❄️ 画像
+13:37 MAI❄️ 画像
+2026.09.16 水曜日
+12:30 llu:LLuว 画像
+12:30 llu:LLuว 画像
+2026.09.18 金曜日
+08:50 Innirin604 idp-builder-vejthani-hospital (1).zip
+09:00 ชีพธรรม ไตร คำวิเศษณ์ 画像
+09:00 ชีพธรรม ไตร คำวิเศษณ์ vejthani-ebook-builder (13).zip
+09:00 ชีพธรรม ไตร คำวิเศษณ์ 画像
+09:01 ชีพธรรม ไตร คำวิเศษณ์がメッセージの送信を取り消しました
+09:02 ชีพธรรม ไตร คำวิเศษณ์ 画像
+10:36 PIN💍💎 ---------------
+10:37 PIN💍💎 วิเคราะห์คัดเลือกplugin chatGPT.docx
+11:03 PIN💍💎がメッセージの送信を取り消しました
+11:03 PIN💍💎 Gemแบบวิเคราะห์เพื่อสร้างGem Enterprise.docx
+11:24 Honghern (( fah )) 画像
+11:25 PrinceCooper🍁☕️☁️ 画像
+11:25 llu:LLuว 画像
+11:25 Beer~Бир💕🐱🌷 画像
+11:27 MAI❄️ 画像
+11:27 二シャー♥️ 画像
+11:27 BaiFern 画像
+11:27 Poo ~☀️ 画像
+11:29 Jeena 画像
+11:29 Nina 画像
+11:41 Beer~Бир💕🐱🌷 Service Recovery Action Plan - Overnight AC Malfunction.pdf
+11:42 PrinceCooper🍁☕️☁️がメッセージの送信を取り消しました
+11:43 PrinceCooper🍁☕️☁️ Medical Narrative Harmonization Report.pdf
+11:44 Poo ~☀️ Service Ops Cross-Department Benchmark Q1_2569.pdf
+11:45 llu:LLuว Vejthani Therapeutic Catering Design Collection (2).pdf
+11:45 二シャー♥️ คู่มือการพัฒนาภาวะผู้นำและการสื่อสารเชิงบริหาร.pdf
+11:46 Honghern (( fah )) รายงานผลการตรวจสอบค่าใช้จ่ายการเดินทาง_260918_114610.pdf
+11:46 BaiFern Hospital Operational Excellence Report.pdf
+11:48 Jeena เอกสารยุทธศาสตร์สื่อสารโปรโมชั่นโรงพยาบาลเวชธานี สำหรับตัวแทนประกัน (1).pdf
+11:50 BeE_SEA💝💖 https://gemini.google.com/share/29718be8c09d?skid=c633ca47-aa17-473e-9ea5-ef6b7d3c7bb2 พี่ใหม่
+11:51 BeE_SEA💝💖 Service Ops Cross-Department Benchmark Q1_2569.pdf
+11:54 Poo ~☀️ https://gemini.google.com/gem/1udPY7rfBLsfL9LCBjq4QAO1_B6LTJfYG?usp=sharing
+11:55 llu:LLuว https://gemini.google.com/gem/1G8n0kfI0gEb8Cl4hwUYr6ANx1ZBuqUAJ?usp=sharing
+11:56 Nina Data Request & Spec Architecture Framework.pdf
+12:10 PIN💍💎 画像
+12:10 PIN💍💎 動画
+12:13 BaiFern 画像
+12:14 llu:LLuว https://share.gemini.google/9ljhFuX9Wtfd
+12:14 llu:LLuว 画像
+12:14 Honghern (( fah )) 画像
+12:14 二シャー♥️ 画像
+12:14 Jeena 画像
+12:15 Beer~Бир💕🐱🌷 画像
+12:18 Poo ~☀️ 画像
+12:22 Nina 画像
+12:24 PIN💍💎 スタンプ
+12:25 PrinceCooper🍁☕️☁️ 画像
+12:25 PrinceCooper🍁☕️☁️ 画像
+12:25 PrinceCooper🍁☕️☁️ 画像
+12:28 PrinceCooper🍁☕️☁️ 画像
+13:02 maymay 画像

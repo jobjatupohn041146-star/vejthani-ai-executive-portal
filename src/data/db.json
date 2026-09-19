@@ -1,0 +1,4583 @@
+{
+  "kpis": {
+    "totalChatMessages": 403,
+    "totalDocuments": 45,
+    "totalPortfolioMedia": 108,
+    "totalAtmospherePhotos": 112,
+    "totalVideos": 22,
+    "totalParticipants": 28
+  },
+  "documents": [
+    {
+      "filename": "วิเคราะห์คัดเลือกplugin chatGPT.docx",
+      "url": "/media/วิเคราะห์คัดเลือกplugin chatGPT.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "ช่องแชทโน้ตบุ้ค.docx",
+      "url": "/media/ช่องแชทโน้ตบุ้ค.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "Service Recovery Action Plan - Overnight AC Malfunction.pdf",
+      "url": "/media/Service Recovery Action Plan - Overnight AC Malfunction.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "AI Backlog Killer.pdf",
+      "url": "/media/AI Backlog Killer.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "Medical Narrative Harmonization Report.pdf",
+      "url": "/media/Medical Narrative Harmonization Report.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "AI Backlog Killer Requirement Management.pdf",
+      "url": "/media/AI Backlog Killer Requirement Management.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "วิเคราะห์สั้น AI BACKLOG KILLER.docx",
+      "url": "/media/วิเคราะห์สั้น AI BACKLOG KILLER.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "Black Killer .pdf",
+      "url": "/media/Black Killer .pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "Gemแบบวิเคราะห์เพื่อสร้างGem Enterprise.docx",
+      "url": "/media/Gemแบบวิเคราะห์เพื่อสร้างGem Enterprise.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "AI_Backlog_Killer_Subcontract_KPI_Executive_Report (1).pdf",
+      "url": "/media/AI_Backlog_Killer_Subcontract_KPI_Executive_Report (1).pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "วิเคราะห์เพื่อหา AI FUTURE RADAR.docx",
+      "url": "/media/วิเคราะห์เพื่อหา AI FUTURE RADAR.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "Hospital Operational Excellence Report.pdf",
+      "url": "/media/Hospital Operational Excellence Report.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "ROPA_AI_Backlog_Killer 1.pdf",
+      "url": "/media/ROPA_AI_Backlog_Killer 1.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "เวิคช้อป.docx",
+      "url": "/media/เวิคช้อป.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "คู่มือการพัฒนาภาวะผู้นำและการสื่อสารเชิ.pdf",
+      "url": "/media/คู่มือการพัฒนาภาวะผู้นำและการสื่อสารเชิ.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "AI Backlog Killer .pdf",
+      "url": "/media/AI Backlog Killer .pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "หลักสูตรผู้ช่วยพยาบาล_ดูแลผู้สูงอายุจิตเ.docx",
+      "url": "/media/หลักสูตรผู้ช่วยพยาบาล_ดูแลผู้สูงอายุจิตเ.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "Backlog_Killer_ทางด่วน_น้ำมัน_เวชธานี_260914_120426.pdf",
+      "url": "/media/Backlog_Killer_ทางด่วน_น้ำมัน_เวชธานี_260914_120426.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "Service Ops Cross-Department Benchmark Q1_2569.pdf",
+      "url": "/media/Service Ops Cross-Department Benchmark Q1_2569.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "AI_Backlog_Killer.pdf",
+      "url": "/media/AI_Backlog_Killer.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "วิเคราะห์ลดการใช้พลังงาน.pdf",
+      "url": "/media/วิเคราะห์ลดการใช้พลังงาน.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "AI_Backlog_Killer_COO_Executive_Brief.pdf",
+      "url": "/media/AI_Backlog_Killer_COO_Executive_Brief.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "AI_Backlog_Killer_MCO_COO.pdf",
+      "url": "/media/AI_Backlog_Killer_MCO_COO.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "รายงานผลการตรวจสอบค่าใช้จ่ายการเดินทาง_2609.pdf",
+      "url": "/media/รายงานผลการตรวจสอบค่าใช้จ่ายการเดินทาง_2609.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "Vejthani AI Backlog Killer Executive Brief.pdf",
+      "url": "/media/Vejthani AI Backlog Killer Executive Brief.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "Vejthani Therapeutic Catering Design Collection (2).pdf",
+      "url": "/media/Vejthani Therapeutic Catering Design Collection (2).pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "วิเคราะห์เพื่อAI Backlog Killer.docx",
+      "url": "/media/วิเคราะห์เพื่อAI Backlog Killer.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "AI_Backlog_Killer_COO_Presentation.pdf",
+      "url": "/media/AI_Backlog_Killer_COO_Presentation.pdf",
+      "day": "DAY 1-2",
+      "type": "PDF"
+    },
+    {
+      "filename": "วิเคราะห์สั้น AI FUTURE RADAR.docx",
+      "url": "/media/วิเคราะห์สั้น AI FUTURE RADAR.docx",
+      "day": "DAY 1-2",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas HRMเครื่องมือคำนวณและจำลองอัตรากำลัง Interacti.docx",
+      "url": "/media/canvas HRMเครื่องมือคำนวณและจำลองอัตรากำลัง Interacti.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas IT Prototype หน้าจอแอปพลิเคชันบริการผู้ป่วยแพท.docx",
+      "url": "/media/canvas IT Prototype หน้าจอแอปพลิเคชันบริการผู้ป่วยแพท.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas IT แผนผังระบบและโฟลว์งานฉุกเฉิน.docx",
+      "url": "/media/canvas IT แผนผังระบบและโฟลว์งานฉุกเฉิน.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas marketingเครื่องมือจำลองและคำนวณแบบโต้ตอบ.docx",
+      "url": "/media/canvas marketingเครื่องมือจำลองและคำนวณแบบโต้ตอบ.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "เทคนิคเช็คคุณภาพ Gem ITกลุ่ม 1.docx",
+      "url": "/media/เทคนิคเช็คคุณภาพ Gem ITกลุ่ม 1.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "voice MARKETING.docx",
+      "url": "/media/voice MARKETING.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas HRMไดอะแกรมขั้นตอนงานแบบโต้ตอบ Interactive Workflow _ Onbo.docx",
+      "url": "/media/canvas HRMไดอะแกรมขั้นตอนงานแบบโต้ตอบ Interactive Workflow _ Onbo.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas marketingต้นแบบแคมเปญดิจิทัล.docx",
+      "url": "/media/canvas marketingต้นแบบแคมเปญดิจิทัล.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas marketing โครงสร้างข้อมูลพร้อมรันงาน Actionable Data Structu.docx",
+      "url": "/media/canvas marketing โครงสร้างข้อมูลพร้อมรันงาน Actionable Data Structu.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas IT Executive Interactive Dashboard ระบบพรีวิวหน้าเว็บ.docx",
+      "url": "/media/canvas IT Executive Interactive Dashboard ระบบพรีวิวหน้าเว็บ.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "เทคนิคทดสอบคุณภาพGEM HRM.docx",
+      "url": "/media/เทคนิคทดสอบคุณภาพGEM HRM.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "voice HRM.docx",
+      "url": "/media/voice HRM.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas แผนกไอทีสร้างPrototype หน้าจอแอปพลิเคชันบริก.docx",
+      "url": "/media/canvas แผนกไอทีสร้างPrototype หน้าจอแอปพลิเคชันบริก.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "voiceIT.docx",
+      "url": "/media/voiceIT.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "เทคนิคเช็คคุณภาพ Gem Marketing.docx",
+      "url": "/media/เทคนิคเช็คคุณภาพ Gem Marketing.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    },
+    {
+      "filename": "canvas IT เครื่องมือคำนวณงบประมาณและ ROI โครงการไ.docx",
+      "url": "/media/canvas IT เครื่องมือคำนวณงบประมาณและ ROI โครงการไ.docx",
+      "day": "DAY 3",
+      "type": "DOCX"
+    }
+  ],
+  "chat": [
+    {
+      "time": "08:57",
+      "user": "Jatupohn",
+      "message": "Thepbundit Jatupohn Thepbunditがグループに参加しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "08:57",
+      "user": "Ampp",
+      "message": "Amppがグループに参加しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "08:57",
+      "user": "Jatupohn",
+      "message": "Thepbundit Jatupohn ThepbunditがJJをグループに追加しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:13",
+      "user": "BeE_SEA💝💖",
+      "message": "@ชีพธรรม ไตร คำวิเศษณ์",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:13",
+      "user": "BeE_SEA💝💖",
+      "message": "กลถ่มนี้ค่ะ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:17",
+      "user": "BeE_SEA💝💖",
+      "message": "https://sparkly-pudding-d510be.netlify.app/",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:17",
+      "user": "Innirin604",
+      "message": "新しいノートを作成しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:54",
+      "user": "Innirin604",
+      "message": "[1. SYSTEM ROLE & PERSONA]",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:54",
+      "user": "Innirin604",
+      "message": "新しいノートを作成しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:16",
+      "user": "二シャー♥️",
+      "message": "https://share.gemini.google/rFYOdcgIdYLO",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:16",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "https://share.gemini.google/aiRYbMlRk1ek",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:16",
+      "user": "Ampp",
+      "message": "https://share.gemini.google/vuy8QNajXo7k",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:16",
+      "user": "BaiFern",
+      "message": "https://share.gemini.google/TxvThBjBifWo",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:16",
+      "user": "MAI❄️",
+      "message": "https://share.gemini.google/FBzCOxeH0R7u",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:17",
+      "user": "llu:LLuว",
+      "message": "https://share.gemini.google/KkFgfGN8VCeI",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:17",
+      "user": "Honghern",
+      "message": "(( fah )) https://gemini.google.com/share/d2792ce9dc7f?skid=aaa07dc1-286d-4633-93b4-faddee8e19d3",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:18",
+      "user": "BeE_SEA💝💖",
+      "message": "https://gemini.google.com/share/57d111c2de03?skid=c9aedc75-e9cc-44e4-b9fd-cbad4fb6080b พี่บูนค่ะ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:18",
+      "user": "BeE_SEA💝💖",
+      "message": "https://gemini.google.com/share/91679afb1e26?skid=35a440a9-4e3d-4a3f-8214-d8cac8dc8e7a พี่นุ๊ก",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:18",
+      "user": "BeE_SEA💝💖",
+      "message": "https://share.gemini.google/YsBQehxj2tBQ น้องปูค่ะ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:20",
+      "user": "JakjaN",
+      "message": "https://docs.google.com/document/d/1HIfkx8rgKghvlI-k-wA9b9cy10zBcYp32enxXCaY6iw/edit?tab=t.0",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:21",
+      "user": "二シャー♥️",
+      "message": "https://docs.google.com/document/d/1SAuJL6ZhhI11uONz_wgi-z9qBF1SCGXU1LkGp1Imz3Y/edit?usp=sharing",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:24",
+      "user": "Boss",
+      "message": "https://docs.google.com/document/d/1E_8o0P_cRhZjXdxg70U8p-MjYiin0X6qW2BJBfFbJCY/edit?usp=sharing",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:25",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "https://docs.google.com/document/d/1Gkxl-LHowo6YmmbLZHJ4K2IyaSj-l2WEkp5O0yfsxjA/edit?usp=sharing",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:25",
+      "user": "Aun(อุ๊นอุ่น)",
+      "message": "https://share.gemini.google/uxV843veXFwA",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:25",
+      "user": "Aun(อุ๊นอุ่น)",
+      "message": "https://docs.google.com/document/d/1tLzSXvtDdznCpYfK2f5ZRRUx6CVI46L8wZIvrcmZDqs/edit?usp=sharing",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:27",
+      "user": "Boss",
+      "message": "https://share.gemini.google/4KBWhnK2QbVC",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:32",
+      "user": "二シャー♥️",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:32",
+      "user": "llu:LLuว",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:32",
+      "user": "BaiFern",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:32",
+      "user": "BaiFern",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:33",
+      "user": "Ampp",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:33",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:33",
+      "user": "Boss",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:33",
+      "user": "Boss",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:34",
+      "user": "BeE_SEA💝💖",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:34",
+      "user": "BeE_SEA💝💖",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:34",
+      "user": "BeE_SEA💝💖",
+      "message": "ของพี่บูนค่ะ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:34",
+      "user": "MAI❄️",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:34",
+      "user": "Honghern",
+      "message": "(( fah )) 画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:34",
+      "user": "Honghern",
+      "message": "(( fah )) 画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:35",
+      "user": "Aun(อุ๊นอุ่น)",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:35",
+      "user": "Aun(อุ๊นอุ่น)",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:37",
+      "user": "二シャー♥️",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:57",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:58",
+      "user": "Innirin604",
+      "message": "「ประกอบการอบรม 14/09/26」アルバムを作成しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:59",
+      "user": "Innirin604",
+      "message": "วิเคราะห์เพื่อหา AI FUTURE RADAR.docx",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:59",
+      "user": "Innirin604",
+      "message": "วิเคราะห์เพื่อAI Backlog Killer.docx",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:59",
+      "user": "Innirin604",
+      "message": "เวิคช้อป.docx",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:04",
+      "user": "PIN💍💎",
+      "message": "ช่องแชทโน้ตบุ้ค.docx",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:04",
+      "user": "Honghern",
+      "message": "(( fah )) Backlog_Killer_ทางด่วน_น้ำมัน_เวชธานี_260914_120426.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:05",
+      "user": "BaiFern",
+      "message": "AI_Backlog_Killer_COO_Presentation.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:06",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "วิเคราะห์ลดการใช้พลังงาน.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:07",
+      "user": "二シャー♥️",
+      "message": "AI Backlog Killer.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:07",
+      "user": "JakjaN",
+      "message": "AI_Backlog_Killer_COO_Executive_Brief.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:07",
+      "user": "PrinceCooper🍁☕️☁️",
+      "message": "AI_Backlog_Killer_MCO_COO.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:08",
+      "user": "Boss",
+      "message": "AI Backlog Killer Requirement Management.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:08",
+      "user": "Aun(อุ๊นอุ่น)",
+      "message": "AI_Backlog_Killer.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:08",
+      "user": "llu:LLuว",
+      "message": "AI Backlog Killer .pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:09",
+      "user": "PIN💍💎",
+      "message": "คำตอบของคุณให้วิเคราะห์และสรุปเฉพาะประเด็นสำคัญเพื่อเสนอผู้บริหาร แบบone page แนวตั้ง ciโรงพยาบาลเวชธานี",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:09",
+      "user": "Poo",
+      "message": "~☀️ Black Killer .pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:14",
+      "user": "二シャー♥️",
+      "message": "Vejthani AI Backlog Killer Executive Brief.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:15",
+      "user": "PrinceCooper🍁☕️☁️",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:15",
+      "user": "Honghern",
+      "message": "(( fah )) https://gemini.google.com/share/5b8e2d47123e?skid=82b11fbc-fb86-485c-8bab-34b93f38de9a",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:16",
+      "user": "PIN💍💎",
+      "message": "ไฟล์นี้ ให้สร้างภาพแบบone page แนวตั้ง ciโรงพยาบาลเวชธานี",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:16",
+      "user": "Boss",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:17",
+      "user": "BeE_SEA💝💖",
+      "message": "ROPA_AI_Backlog_Killer 1.pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:17",
+      "user": "BeE_SEA💝💖",
+      "message": "AI_Backlog_Killer_Subcontract_KPI_Executive_Report (1).pdf",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:18",
+      "user": "BeE_SEA💝💖",
+      "message": "https://gemini.google.com/share/56736263e1d4?skid=fe3423e2-39a9-409d-a7f2-aa0cb1d4465c พี่บูน",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:18",
+      "user": "llu:LLuว",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:18",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:18",
+      "user": "MAI❄️",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:18",
+      "user": "BeE_SEA💝💖",
+      "message": "https://gemini.google.com/share/00985ffd478b?skid=39bd0d10-9765-4440-884a-8fada398bf07",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:19",
+      "user": "Innirin604",
+      "message": "「Training 14/09/26」アルバムを作成しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:20",
+      "user": "Jatupohn",
+      "message": "Thepbundit アルバムに13件のコンテンツを追加しました。",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:22",
+      "user": "BeE_SEA💝💖",
+      "message": "การบ้านวันนี้ค่ะ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:25",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:25",
+      "user": "PIN💍💎",
+      "message": "ตอบแบบpdf+รูปภาพ องค์ประกอบดังนี้",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:25",
+      "user": "PIN💍💎",
+      "message": "ไฟล์นี้ ให้สร้างภาพแบบone page แนวตั้ง ciโรงพยาบาลเวชธานี",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:27",
+      "user": "C-H-A-N-T-A-N-A_boon",
+      "message": "動画",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:27",
+      "user": "Innirin604",
+      "message": "スタンプ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:28",
+      "user": "BeE_SEA💝💖",
+      "message": "@All พี่บูนส่งแล้ว ทุกคนส่งด้วยนะคะ😁",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:28",
+      "user": "BeE_SEA💝💖",
+      "message": "スタンプ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:48",
+      "user": "MAI❄️",
+      "message": "動画",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:48",
+      "user": "PIN💍💎",
+      "message": "ไฟล์ใช้สองไฟล์นี้คะ ปรับให้สั้นจะได้ทำงานเร็ว ใช้ได้กับทุกเรื่อง ทุกงานคะ",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:48",
+      "user": "PIN💍💎",
+      "message": "วิเคราะห์สั้น AI BACKLOG KILLER.docx",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:48",
+      "user": "PIN💍💎",
+      "message": "วิเคราะห์สั้น AI FUTURE RADAR.docx",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "13:16",
+      "user": "BeE_SEA💝💖",
+      "message": "@All จาก 2 file ล่าสุดของอ.เปียโน รบกวนส่งการบ้านภายในวันพรุ่งนี้ก่อนเที่ยงนะึะ😊",
+      "date": "2026.09.14",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:17",
+      "user": "JakjaN",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:17",
+      "user": "JakjaN",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:20",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:20",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:21",
+      "user": "PIN💍💎",
+      "message": "スタンプ",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:29",
+      "user": "PrinceCooper🍁☕️☁️",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:17",
+      "user": "Boss",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:33",
+      "user": "Aun(อุ๊นอุ่น)",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:40",
+      "user": "二シャー♥️",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:48",
+      "user": "BaiFern",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:49",
+      "user": "BaiFern",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:48",
+      "user": "Honghern",
+      "message": "(( fah )) 画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:48",
+      "user": "Honghern",
+      "message": "(( fah )) 画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:49",
+      "user": "PIN💍💎",
+      "message": "スタンプ",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:54",
+      "user": "Poo",
+      "message": "~☀️ 画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:54",
+      "user": "Poo",
+      "message": "~☀️ 画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "13:37",
+      "user": "MAI❄️",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "13:37",
+      "user": "MAI❄️",
+      "message": "画像",
+      "date": "2026.09.15",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:30",
+      "user": "llu:LLuว",
+      "message": "画像",
+      "date": "2026.09.16",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "12:30",
+      "user": "llu:LLuว",
+      "message": "画像",
+      "date": "2026.09.16",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "08:50",
+      "user": "Innirin604",
+      "message": "idp-builder-vejthani-hospital (1).zip",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:00",
+      "user": "ชีพธรรม",
+      "message": "ไตร คำวิเศษณ์ 画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:00",
+      "user": "ชีพธรรม",
+      "message": "ไตร คำวิเศษณ์ vejthani-ebook-builder (13).zip",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:00",
+      "user": "ชีพธรรม",
+      "message": "ไตร คำวิเศษณ์ 画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:01",
+      "user": "ชีพธรรม",
+      "message": "ไตร คำวิเศษณ์がメッセージの送信を取り消しました",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:02",
+      "user": "ชีพธรรม",
+      "message": "ไตร คำวิเศษณ์ 画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:36",
+      "user": "PIN💍💎",
+      "message": "---------------",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "10:37",
+      "user": "PIN💍💎",
+      "message": "วิเคราะห์คัดเลือกplugin chatGPT.docx",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:03",
+      "user": "PIN💍💎",
+      "message": "Gemแบบวิเคราะห์เพื่อสร้างGem Enterprise.docx",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:24",
+      "user": "Honghern",
+      "message": "(( fah )) 画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:25",
+      "user": "PrinceCooper🍁☕️☁️",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:25",
+      "user": "llu:LLuว",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:25",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:27",
+      "user": "MAI❄️",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:27",
+      "user": "二シャー♥️",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:27",
+      "user": "BaiFern",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:27",
+      "user": "Poo",
+      "message": "~☀️ 画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:29",
+      "user": "Jeena",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:29",
+      "user": "Nina",
+      "message": "画像",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:41",
+      "user": "Beer~Бир💕🐱🌷",
+      "message": "Service Recovery Action Plan - Overnight AC Malfunction.pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:43",
+      "user": "PrinceCooper🍁☕️☁️",
+      "message": "Medical Narrative Harmonization Report.pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:44",
+      "user": "Poo",
+      "message": "~☀️ Service Ops Cross-Department Benchmark Q1_2569.pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:45",
+      "user": "llu:LLuว",
+      "message": "Vejthani Therapeutic Catering Design Collection (2).pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:45",
+      "user": "二シャー♥️",
+      "message": "คู่มือการพัฒนาภาวะผู้นำและการสื่อสารเชิงบริหาร.pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:46",
+      "user": "Honghern",
+      "message": "(( fah )) รายงานผลการตรวจสอบค่าใช้จ่ายการเดินทาง_260918_114610.pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:46",
+      "user": "BaiFern",
+      "message": "Hospital Operational Excellence Report.pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:48",
+      "user": "Jeena",
+      "message": "เอกสารยุทธศาสตร์สื่อสารโปรโมชั่นโรงพยาบาลเวชธานี สำหรับตัวแทนประกัน (1).pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:50",
+      "user": "BeE_SEA💝💖",
+      "message": "https://gemini.google.com/share/29718be8c09d?skid=c633ca47-aa17-473e-9ea5-ef6b7d3c7bb2 พี่ใหม่",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "11:51",
+      "user": "BeE_SEA💝💖",
+      "message": "Service Ops Cross-Department Benchmark Q1_2569.pdf",
+      "date": "2026.09.18",
+      "day": "DAY 1-2"
+    },
+    {
+      "time": "09:56",
+      "user": "Jatupohn",
+      "message": "Thepbundit Jatupohn Thepbunditがグループに参加しました。",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:57",
+      "user": "MaeWMeaW",
+      "message": "https://share.gemini.google/Ii8wbaeWirkc",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:58",
+      "user": "เบส",
+      "message": "ท้องเสีย https://share.gemini.google/x9uFMn8VLMRg",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:09",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:10",
+      "user": "BANK🐱",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:10",
+      "user": "Nam",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:10",
+      "user": "Achi🐎🏺💰📈",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:10",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:10",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:10",
+      "user": "TP'Tak",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:10",
+      "user": "MaeWMeaW",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:11",
+      "user": "=^-^=",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:11",
+      "user": "Kik",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:12",
+      "user": "Innirin604",
+      "message": "スタンプ",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:13",
+      "user": "PICKY",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:16",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ 画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:17",
+      "user": "R🐱",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:18",
+      "user": "MaeWMeaW",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:27",
+      "user": "Toey",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "workshop IT.docx",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "workshop marketing.docx",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:51",
+      "user": "Innirin604",
+      "message": "วิเคราะห์อนาคตสายไอที.docx",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:55",
+      "user": "Innirin604",
+      "message": "「ประกอบการอบรม 7/9/26」アルバムを作成しました。",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:45",
+      "user": "PIN💍💎",
+      "message": "ช่องแชท.docx",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:53",
+      "user": "Nam",
+      "message": "AI_เวชธานีกับความลับข้อมูลสุขภาพ.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:53",
+      "user": "Nam",
+      "message": "สถาปัตยกรรมระบบวิเคราะห์ข้อมูลอัจฉริยะและการประยุกต์ใช้ปัญญาประดิษฐ์ในระบบ Qlik Sense สำหรับโรงพยาบาลเวชธานี.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:54",
+      "user": "iamwut",
+      "message": "ช้าไปไม่ตรวจ",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:12",
+      "user": "iamwut",
+      "message": "https://chatgpt.com/s/m_6a9e47a6837881918032d2dec9a1825f",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:12",
+      "user": "Kik",
+      "message": "executive_matrix_onepage.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:12",
+      "user": "TP'Tak",
+      "message": "vejthani_ai_strategy.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:12",
+      "user": "Toey",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:12",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ 画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:12",
+      "user": "Toey",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:12",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ 画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "TP'Tak",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "TP'Tak",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "BANK🐱",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "BANK🐱",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 vejthani_ai_strategy_260907_121149.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "เบส",
+      "message": "ท้องเสีย 画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "Nam",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:13",
+      "user": "Nam",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:14",
+      "user": "=^-^=",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:14",
+      "user": "=^-^=",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:15",
+      "user": "iamwut",
+      "message": "https://chatgpt.com/s/m_6a9e485cfeb08191a80860392e816fcc",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:15",
+      "user": "Toey",
+      "message": "AI_Powered_GERD_Strategy.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:15",
+      "user": "R🐱",
+      "message": "สรุปสาระสำคัญด้านสถาปัตยกรรมข้อมูลและการเพิ่มประสิทธิภาพระบบ InterSystems IRIS และ TrakCare.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:15",
+      "user": "R🐱",
+      "message": "音声",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:15",
+      "user": "Toey",
+      "message": "กรดไหลย้อนไร้แผลกับความจริงในรหัสเอไอ.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:16",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 音声",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:16",
+      "user": "MaeWMeaW",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:16",
+      "user": "MaeWMeaW",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:16",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ เอกสารสรุปโครงการระบบนิเวศ AI-Powered Automation เพื่อการปรับปรุงงานอย่างต่อเนื่อง สำหรับโรงพยาบาลเวชธานี.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:17",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ เอไอเวชธานีสยบคอขวดงานเอกสารโรงพยาบาล.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:17",
+      "user": "=^-^=",
+      "message": "ผ่าตัด_HIS_เก่าให้ปลอดภัยตาม_PDPA.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:17",
+      "user": "=^-^=",
+      "message": "เอกสารสรุปข้อมูล_ กลยุทธ์การจัดการรหัสเดิม การเพิ่มประสิทธิภาพฐานข้อมูล และความปลอดภัยทางไซเบอร์.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:17",
+      "user": "Achi🐎🏺💰📈",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:17",
+      "user": "Achi🐎🏺💰📈",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:18",
+      "user": "BANK🐱",
+      "message": "Sacred_Data_Guardian.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:18",
+      "user": "BANK🐱",
+      "message": "อุดรอยรั่วข้อมูลส่วนตัวจากเครื่องมือการตลาด.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:18",
+      "user": "Kik",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:18",
+      "user": "Kik",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:19",
+      "user": "Achi🐎🏺💰📈",
+      "message": "AI_Agent_บริหารคนและงบซอฟต์แวร์.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:19",
+      "user": "Kik",
+      "message": "音声",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:19",
+      "user": "Kik",
+      "message": "วงจรชีวิตการกำกับดูแลข้อมูลยุคใหม่_ จากการคัดแยกด้วย AI สู่การปกป้องแบบอัตโนมัติใน Unity Catalog.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:20",
+      "user": "Kik",
+      "message": "音声",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:30",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:30",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:30",
+      "user": "iamwut",
+      "message": "vejthani_security_playbook_v3.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:30",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:34",
+      "user": "iamwut",
+      "message": "ส่งแฟน file เสียงคับ ติด limit",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:06",
+      "user": "Innirin604",
+      "message": "「Training 7/9/26」アルバムを作成しました。",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:37",
+      "user": "TP'Tak",
+      "message": "สถาปัตยกรรม_AI_SDLC_เวชธานี.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:37",
+      "user": "TP'Tak",
+      "message": "画像",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:37",
+      "user": "TP'Tak",
+      "message": "ส่แทน file เสียงคับ ติด limit เช่นกันครับ",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:40",
+      "user": "PIN💍💎",
+      "message": "スタンプ",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "16:18",
+      "user": "เบส",
+      "message": "ท้องเสีย AI-Native_DevSecOps.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "16:18",
+      "user": "เบส",
+      "message": "ท้องเสีย คนคือด่านสุดท้ายในยุค_AI_แก้บั๊ก.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "19:40",
+      "user": "MaeWMeaW",
+      "message": "แผนกลยุทธ์ AI-Driven OPD Cardiac Rehab และ Strategic War Room.pdf",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "19:48",
+      "user": "PIN💍💎",
+      "message": "スタンプ",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "19:53",
+      "user": "MaeWMeaW",
+      "message": "ฟื้นฟูหัวใจด้วยเครื่องบีบขาและเอไอ.m4a",
+      "date": "2026.09.07",
+      "day": "DAY 3"
+    },
+    {
+      "time": "08:58",
+      "user": "Nick",
+      "message": "Nickがพี่นิ้งชอบกินชิโอปังをグループに追加しました。",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:00",
+      "user": "Dear",
+      "message": "Dearがグループに参加しました。",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:13",
+      "user": "Innirin604",
+      "message": "idp-builder-vejthani-hospital (7).zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:33",
+      "user": "Innirin604",
+      "message": "thailand-hospital-competitive-intelligence-pro (6).zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:43",
+      "user": "Innirin604",
+      "message": "https://vejthani-ci-bee.github.io/ci-dashboard/",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:45",
+      "user": "Achi🐎🏺💰📈",
+      "message": "idp-application-developer-lowcode_1.zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:45",
+      "user": "Dear",
+      "message": "IDP_Senior_IT_Support.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:46",
+      "user": "Nam",
+      "message": "IDP_Data_Analyst_Curriculum_6Months.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:46",
+      "user": "=^-^=",
+      "message": "IDP_Software_Developer_Mid_Level.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:47",
+      "user": "MaeWMeaW",
+      "message": "IDP_แผนพัฒนารายบุคคล_ตามบทบาท.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:49",
+      "user": "เบส",
+      "message": "ท้องเสีย IDP_หลักสูตรอบรม การดูแลผู้สูงอายุที่มีภาวะสูญเสีย.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:49",
+      "user": "BANK🐱",
+      "message": "หลักสูตรผู้ช่วยพยาบาล_ดูแลผู้สูงอายุจิตเวช.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:49",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:49",
+      "user": "R🐱",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:49",
+      "user": "iamwut",
+      "message": "หลักสูตร-Cybersecurity-Onboarding-เวชธานี.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:50",
+      "user": "=^-^=",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:50",
+      "user": "Kik",
+      "message": "IDP_IT_Database_Manager.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:50",
+      "user": "Kik",
+      "message": "Vejthani_IDP_Infographic.pdf",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:50",
+      "user": "TP'Tak",
+      "message": "SR_DEVELOPER_SPECIALIST_CURRICULUM.md",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:50",
+      "user": "TP'Tak",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:50",
+      "user": "Achi🐎🏺💰📈",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:51",
+      "user": "Dear",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:51",
+      "user": "BANK🐱",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:51",
+      "user": "R🐱",
+      "message": "Q4_Hospital_Campaign_Plan.md",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:51",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:51",
+      "user": "Kik",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:52",
+      "user": "Nam",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:52",
+      "user": "เบส",
+      "message": "ท้องเสีย 画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:53",
+      "user": "ชีพธรรม",
+      "message": "ไตร คำวิเศษณ์ คุณคือผู้เชี่ยวชาญ Claude skill ฉันเป็นทำงานตำแหน่ง --------  ช่วยแนะนำ Claude skill มา 5 แบบเพื่อเป็นผู้ช่วย Co-intelligence ให้กับฉัน",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:16",
+      "user": "iamwut",
+      "message": "healthcare-grc-audit-evidence-automator.zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:16",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:17",
+      "user": "Dear",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:17",
+      "user": "Dear",
+      "message": "legacy-modernization-architect.zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:17",
+      "user": "TP'Tak",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:17",
+      "user": "Nam",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:17",
+      "user": "Nam",
+      "message": "Strategic_KPI_Design_UX_Mapping_Skill.md",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:17",
+      "user": "TP'Tak",
+      "message": "ไฟล์ skill ติด Limit เอาของเพื่อนมาสร้าง ภาพ แทนครับ",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:20",
+      "user": "=^-^=",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:20",
+      "user": "=^-^=",
+      "message": "Skill Code Review.md",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:22",
+      "user": "Achi🐎🏺💰📈",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:22",
+      "user": "Achi🐎🏺💰📈",
+      "message": "SKILL Process Flow Designer.md",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:22",
+      "user": "Kik",
+      "message": "db-security-schema-reviewer.zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "workshop แผนกIT.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "workshop marketing.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "workshop HRM.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BANK🐱",
+      "message": "medical-schema-architect.zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "วิเคราะห์เพื่อสร้างGEMงานส่วนตัว.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:24",
+      "user": "BeE_SEA💝💖",
+      "message": "workshopมือถือ.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:26",
+      "user": "MaeWMeaW",
+      "message": "SKILL.md",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:28",
+      "user": "Kik",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:28",
+      "user": "Innirin604",
+      "message": "「ประกอบการเรียน 9/9/26」アルバムを作成しました。",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:38",
+      "user": "Jatupohn",
+      "message": "Thepbundit Jatupohn ThepbunditがJJをグループに追加しました。",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "R🐱",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "Nam",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞがメッセージの送信を取り消しました",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "=^-^=",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "TP'Tak",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "Dear",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "iamwut",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "BANK🐱",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:01",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ 画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:02",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:04",
+      "user": "เบส",
+      "message": "ท้องเสีย 画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:04",
+      "user": "Achi🐎🏺💰📈",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:04",
+      "user": "Kik",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:05",
+      "user": "MaeWMeaW",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:17",
+      "user": "Nam",
+      "message": "https://gemini.google.com/gem/1z7jhH-8luHWluV817RAmj7U0vm-Tv_Rr?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:17",
+      "user": "iamwut",
+      "message": "https://gemini.google.com/gem/1VSNc-HRavz0d8CWGD_4SN1NaPgSCN45b?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:17",
+      "user": "TP'Tak",
+      "message": "https://gemini.google.com/gem/1RyUrCuwyBmSPqIaRy1nSgsB5-t6uvNkN?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:17",
+      "user": "Achi🐎🏺💰📈",
+      "message": "https://gemini.google.com/gem/1JaeE8Q3HjkmphssDtuX802zFzMFaOoyL?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:17",
+      "user": "BANK🐱",
+      "message": "https://gemini.google.com/gem/13vaCkjl6AjTWlMYkJRu4V3bZY7krztWa?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:17",
+      "user": "Dear",
+      "message": "https://gemini.google.com/gem/18dYw4MOpDUIxCkh9YLWEJfIbJ8LEn-yi?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ https://gemini.google.com/gem/1l-FSAvHb07wbrhoSrCx2D82dn-H7L87p?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 https://gemini.google.com/gem/1PV1dWlZLDx7MoWOMlMqyHVxsnOwNklcy?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "Kik",
+      "message": "https://gemini.google.com/gem/193654x2SbH1weISANMBAAcVFaGpRBA22?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "เบส",
+      "message": "ท้องเสีย https://gemini.google.com/gem/17N6eFqNwavCsVqzH2wHSoj126OX3xQYy?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "=^-^=",
+      "message": "https://gemini.google.com/gem/1997eb_MmQMAj4q6ExkZGHk6uae1yTzVK?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "MaeWMeaW",
+      "message": "https://gemini.google.com/gem/1K72vh_DWF1pXreFVHP0nd8uehOCC7IY5?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:32",
+      "user": "iamwut",
+      "message": "https://gemini.google.com/gem/1PIu4rKbdFEZMDWdKZjoGraLzXgECRhJP?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "=^-^=",
+      "message": "https://gemini.google.com/gem/1zgyFQDFKrLDXhtyF6ZVQShmEFjPj7wLw?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "Dear",
+      "message": "https://gemini.google.com/gem/1fOXzMP7ZTQUU-_Jpusp2x4V6jCCKROf_?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "Kik",
+      "message": "https://gemini.google.com/gem/13M9aYeIFblvtEwUrJ-DzcedVWJFDeAp6?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "Achi🐎🏺💰📈",
+      "message": "https://gemini.google.com/gem/1Nfhy5vnVgGqO4LlwPmw1xmcfVQkESVKp?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "TP'Tak",
+      "message": "https://gemini.google.com/gem/1H91H4Z7urLJtQcIMHLr6aXDeJvL_aYBg?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "BANK🐱",
+      "message": "https://gemini.google.com/gem/1p-V76cU86emAJZ1SQ60xW7wjR7B0lBhC?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "เบส",
+      "message": "ท้องเสีย https://gemini.google.com/gem/1978hrjNoNs43B9S1a1dtOZ3b3mknIl-i?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "Nam",
+      "message": "https://gemini.google.com/gem/1lQU0fMAxD8bPvT173-jwckJoXEcf12F9?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "BANK🐱",
+      "message": "https://gemini.google.com/gem/1adX9tHNSTCoVG7BlZm2yJ4nZNj_iMZYn?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 https://gemini.google.com/gem/1E6MjYYqXBcAcQlqOYfCfaRs77gMCnXiD?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "PIN💍💎",
+      "message": "workshopมือถือ.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ https://gemini.google.com/gem/1Lz83JsRrz59fuf4Ki3yLu8iN4jHJM1gl?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:36",
+      "user": "MaeWMeaW",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:38",
+      "user": "พี่นิ้งชอบกินชิโอปัง",
+      "message": "https://gemini.google.com/gem/1eRy42-bFHNoXYONmjFVzbVveuPG6BpNJ?usp=sharing",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:49",
+      "user": "Jatupohn",
+      "message": "Thepbundit คู่มือการติดตั้ง Plugin และการใช้งาน Hospital IT AI Toolkit.pdf",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:50",
+      "user": "JJ",
+      "message": "hospital-it-ai-toolkit-plugin-2.zip",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:59",
+      "user": "MaeWMeaW",
+      "message": "画像",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "12:01",
+      "user": "Innirin604",
+      "message": "ครั้งหน้า ขอให้พี่ๆ load",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:03",
+      "user": "Innirin604",
+      "message": "「Training 9/9/26」アルバムを作成しました。",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:04",
+      "user": "Jatupohn",
+      "message": "Thepbundit アルバムに27件のコンテンツを追加しました。",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "14:18",
+      "user": "PIN💍💎",
+      "message": "เทคนิคเช็คคุณภาพ Gem ITกลุ่ม 1.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "14:18",
+      "user": "PIN💍💎",
+      "message": "เทคนิคเช็คคุณภาพ Gem Marketing.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "14:19",
+      "user": "PIN💍💎",
+      "message": "เทคนิคทดสอบคุณภาพGEM HRM.docx",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "15:02",
+      "user": "Jatupohn",
+      "message": "Thepbundit アルバムをシェアしました。",
+      "date": "2026.09.09",
+      "day": "DAY 3"
+    },
+    {
+      "time": "08:30",
+      "user": "Innirin604",
+      "message": "Innirin604がเดียร์ 🐰をグループに追加しました。",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:00",
+      "user": "Innirin604",
+      "message": "Load",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:01",
+      "user": "Innirin604",
+      "message": "https://antigravity.google/",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:01",
+      "user": "Innirin604",
+      "message": "จากนั้น log in ด้วย google หรือ Gmail เดียวกับที่เข้า Gemini",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:02",
+      "user": "Innirin604",
+      "message": "vibe-coding-idea-architect (22).zip",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "09:11",
+      "user": "ชีพธรรม",
+      "message": "ไตร คำวิเศษณ์ googleantigravity (22).zip",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:29",
+      "user": "Innirin604",
+      "message": "โหลด codex นะครับ",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:31",
+      "user": "Innirin604",
+      "message": "https://openai.com/th-TH/codex/",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:40",
+      "user": "PIN💍💎",
+      "message": "-------------------",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:41",
+      "user": "PIN💍💎",
+      "message": "voiceIT.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:41",
+      "user": "PIN💍💎",
+      "message": "voice HRM.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:41",
+      "user": "PIN💍💎",
+      "message": "voice MARKETING.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:42",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "10:42",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:17",
+      "user": "Innirin604",
+      "message": "「ประกอบ Training 11/09/26」アルバムを作成しました。",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "PIN💍💎",
+      "message": "------------",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "PIN💍💎",
+      "message": "canvas IT Executive Interactive Dashboard ระบบพรีวิวหน้าเว็บ.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "PIN💍💎",
+      "message": "canvas IT เครื่องมือคำนวณงบประมาณและ ROI โครงการไอที.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "PIN💍💎",
+      "message": "canvas IT แผนผังระบบและโฟลว์งานฉุกเฉิน.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "PIN💍💎",
+      "message": "canvas IT Prototype หน้าจอแอปพลิเคชันบริการผู้ป่วยแพทย์ UIและUX.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:18",
+      "user": "PIN💍💎",
+      "message": "canvas แผนกไอทีสร้างPrototype หน้าจอแอปพลิเคชันบริการผู้ป่วยแพทย์ UIUX Mockup.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:19",
+      "user": "PIN💍💎",
+      "message": "marketing",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:19",
+      "user": "PIN💍💎",
+      "message": "canvas marketing โครงสร้างข้อมูลพร้อมรันงาน Actionable Data Structuring.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:19",
+      "user": "PIN💍💎",
+      "message": "canvas marketingเครื่องมือจำลองและคำนวณแบบโต้ตอบ.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:19",
+      "user": "PIN💍💎",
+      "message": "canvas marketingต้นแบบแคมเปญดิจิทัล.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:19",
+      "user": "PIN💍💎",
+      "message": "HRM",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:19",
+      "user": "PIN💍💎",
+      "message": "canvas HRMเครื่องมือคำนวณและจำลองอัตรากำลัง Interactive Manpower & Budget Simulator.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:19",
+      "user": "PIN💍💎",
+      "message": "canvas HRMไดอะแกรมขั้นตอนงานแบบโต้ตอบ Interactive Workflow & Onboarding Journey.docx",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "Kik",
+      "message": "https://share.gemini.google/1kyB1z4pO2uZ",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "Nam",
+      "message": "https://share.gemini.google/EGwPSP3ZpElv",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "เบส",
+      "message": "ท้องเสีย https://share.gemini.google/VRGNNxCrXcEb",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "MaeWMeaW",
+      "message": "https://share.gemini.google/p7SwsAWYPlI2",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:33",
+      "user": "=^-^=",
+      "message": "https://share.gemini.google/0xqB4n33FmwN",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "TP'Tak",
+      "message": "https://share.gemini.google/JTwaDpOd05vY",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "BANK🐱",
+      "message": "https://share.gemini.google/sOCZzLjCYRKo",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "iamwut",
+      "message": "https://share.gemini.google/I5DzqJosnyQS",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "Toey",
+      "message": "https://share.gemini.google/xuMtlyM8G43I",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:34",
+      "user": "Nuch",
+      "message": "Nuchy  🦄 6951 🦄 https://share.gemini.google/xr61YVrzpxRF",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:35",
+      "user": "Achi🐎🏺💰📈",
+      "message": "https://share.gemini.google/4v5SI4JfkHmW",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:36",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ https://share.gemini.google/H9KdEzWKxB6C",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:40",
+      "user": "iamwut",
+      "message": "https://share.gemini.google/X1s3zewSqtTs",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:40",
+      "user": "Kik",
+      "message": "https://share.gemini.google/TnMJoyt8wCZW",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:41",
+      "user": "Nam",
+      "message": "https://share.gemini.google/Xe0Xf3pnNcVe",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:41",
+      "user": "MaeWMeaW",
+      "message": "https://share.gemini.google/l8VDOePNO0c7",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:41",
+      "user": "𖤐",
+      "message": "ŁØØKYHΞΞ https://share.gemini.google/4Crq356ktgHn",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:43",
+      "user": "พี่นิ้งชอบกินชิโอปัง",
+      "message": "https://share.gemini.google/RsRBmdiqyCF4",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:43",
+      "user": "Achi🐎🏺💰📈",
+      "message": "https://share.gemini.google/NlHMWyhQz1pX",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:43",
+      "user": "TP'Tak",
+      "message": "https://share.gemini.google/0V5JKzzGZX8X",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:43",
+      "user": "=^-^=",
+      "message": "https://share.gemini.google/XAcDZxkoS9Dj",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:44",
+      "user": "Toey",
+      "message": "https://share.gemini.google/2KUbqTFMKDyT",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:45",
+      "user": "PIN💍💎",
+      "message": "-------------------------------------------------",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:46",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:46",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:46",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:46",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:46",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:46",
+      "user": "PIN💍💎",
+      "message": "画像",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "11:47",
+      "user": "Innirin604",
+      "message": "アルバムに6件のコンテンツを追加しました。",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    },
+    {
+      "time": "13:19",
+      "user": "Innirin604",
+      "message": "「Training 11/09/26」アルバムを作成しました。",
+      "date": "2026.09.11",
+      "day": "DAY 3"
+    }
+  ],
+  "portfolioMedia": [
+    {
+      "filename": "282974_0.jpg",
+      "url": "/media/282974_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "1AI FUTURE RADAR.png",
+      "url": "/media/1AI FUTURE RADAR.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "1AI Transformation + Zero-Based Redesign.png",
+      "url": "/media/1AI Transformation + Zero-Based Redesign.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "skill vejthani Ebook.png",
+      "url": "/media/skill vejthani Ebook.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "283234_0.jpg",
+      "url": "/media/283234_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "C3E3A925-34F3-4408-ABB3-F6799AAA9144.png",
+      "url": "/media/C3E3A925-34F3-4408-ABB3-F6799AAA9144.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__85663746.jpg",
+      "url": "/media/S__85663746.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "1AI Backlog Killer.png",
+      "url": "/media/1AI Backlog Killer.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "ครอสเช็ค.png",
+      "url": "/media/ครอสเช็ค.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__6054067.jpg",
+      "url": "/media/S__6054067.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "ChatGPT Image Sep 14, 2026, 10_30_19 AM_0.png",
+      "url": "/media/ChatGPT Image Sep 14, 2026, 10_30_19 AM_0.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "062340BF-06D4-4E62-BE62-498A530AB2D2.jpg",
+      "url": "/media/062340BF-06D4-4E62-BE62-498A530AB2D2.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__6054072.jpg",
+      "url": "/media/S__6054072.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "285626.jpg",
+      "url": "/media/285626.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "E2FE182E-D486-4ABD-AF03-28C42A85E420.png",
+      "url": "/media/E2FE182E-D486-4ABD-AF03-28C42A85E420.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__74850309.jpg",
+      "url": "/media/S__74850309.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "1AI ANALYSIS _ DECISION INTELLIGENCE.png",
+      "url": "/media/1AI ANALYSIS _ DECISION INTELLIGENCE.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "302819.jpg",
+      "url": "/media/302819.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "idp skill น้องอินทร์.png",
+      "url": "/media/idp skill น้องอินทร์.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "9B95C59A-864F-4186-8DA1-40C1F44A6949.jpg",
+      "url": "/media/9B95C59A-864F-4186-8DA1-40C1F44A6949.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__6054371.jpg",
+      "url": "/media/S__6054371.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "302820.jpg",
+      "url": "/media/302820.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__205054107.jpg",
+      "url": "/media/S__205054107.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "648249.jpg",
+      "url": "/media/648249.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "282973_0.jpg",
+      "url": "/media/282973_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "648465.jpg",
+      "url": "/media/648465.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__47054855.jpg",
+      "url": "/media/S__47054855.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "824950.jpg",
+      "url": "/media/824950.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "821356.jpg",
+      "url": "/media/821356.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "ทรานฟอรม.png",
+      "url": "/media/ทรานฟอรม.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "71ECA356-EF5C-4619-ACDE-46E34AC07920.png",
+      "url": "/media/71ECA356-EF5C-4619-ACDE-46E34AC07920.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__85475356_0.jpg",
+      "url": "/media/S__85475356_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "302490_0.jpg",
+      "url": "/media/302490_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__37658645_0.jpg",
+      "url": "/media/S__37658645_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "302489_0.jpg",
+      "url": "/media/302489_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "3F51A4B8-9275-4F13-B183-6F8A811664D0.png",
+      "url": "/media/3F51A4B8-9275-4F13-B183-6F8A811664D0.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "2CB384D6-CAC7-410A-BEF3-820285F7775B.png",
+      "url": "/media/2CB384D6-CAC7-410A-BEF3-820285F7775B.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "ChatGPT Image Sep 14, 2026, 10_30_29 AM (1)_0.png",
+      "url": "/media/ChatGPT Image Sep 14, 2026, 10_30_29 AM (1)_0.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "651300.jpg",
+      "url": "/media/651300.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "BE9DD4F2-D697-474D-87C2-0D4A807AAACD.png",
+      "url": "/media/BE9DD4F2-D697-474D-87C2-0D4A807AAACD.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "1Marketing ไม่ใช่ “วิชาเพิ่ม.png",
+      "url": "/media/1Marketing ไม่ใช่ “วิชาเพิ่ม.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__46931993.jpg",
+      "url": "/media/S__46931993.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__6078685.jpg",
+      "url": "/media/S__6078685.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__50372619.jpg",
+      "url": "/media/S__50372619.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "303704.jpg",
+      "url": "/media/303704.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "201182704.jpg",
+      "url": "/media/201182704.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "283649_0.jpg",
+      "url": "/media/283649_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "ดับเบิ้ลเช็ค.png",
+      "url": "/media/ดับเบิ้ลเช็ค.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__85475355_0.jpg",
+      "url": "/media/S__85475355_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "9F39181E-FFAC-4E2B-A470-CC7592102E3D.jpg",
+      "url": "/media/9F39181E-FFAC-4E2B-A470-CC7592102E3D.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "ความเสี่ยงและเทคนิคปลอดภัย.png",
+      "url": "/media/ความเสี่ยงและเทคนิคปลอดภัย.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__37658644_0.jpg",
+      "url": "/media/S__37658644_0.jpg",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "1International Patient ต้องใส่ในทุก Workshop และ OUTPUT.png",
+      "url": "/media/1International Patient ต้องใส่ในทุก Workshop และ OUTPUT.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "7e6c3671-2624-43f4-8da0-7d8cf0df36c5.png",
+      "url": "/media/7e6c3671-2624-43f4-8da0-7d8cf0df36c5.png",
+      "day": "DAY 1-2",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259535_0.jpg",
+      "url": "/media/S__33259535_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259554_0.jpg",
+      "url": "/media/S__33259554_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259556_0.jpg",
+      "url": "/media/S__33259556_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259572_0.jpg",
+      "url": "/media/S__33259572_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259596.jpg",
+      "url": "/media/S__33259596.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259552_0.jpg",
+      "url": "/media/S__33259552_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259592_0.jpg",
+      "url": "/media/S__33259592_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259629_0.jpg",
+      "url": "/media/S__33259629_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259528_0.jpg",
+      "url": "/media/S__33259528_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259630_0.jpg",
+      "url": "/media/S__33259630_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259557_0.jpg",
+      "url": "/media/S__33259557_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "marketing2.png",
+      "url": "/media/marketing2.png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "HRM2.png",
+      "url": "/media/HRM2.png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259573_0.jpg",
+      "url": "/media/S__33259573_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259536_0.jpg",
+      "url": "/media/S__33259536_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259530.jpg",
+      "url": "/media/S__33259530.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "HRM2(1).png",
+      "url": "/media/HRM2(1).png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "marketing1.png",
+      "url": "/media/marketing1.png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259532.jpg",
+      "url": "/media/S__33259532.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "HRM1.png",
+      "url": "/media/HRM1.png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259555_0.jpg",
+      "url": "/media/S__33259555_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "VOICE  shortcut1(1).png",
+      "url": "/media/VOICE  shortcut1(1).png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259591_0.jpg",
+      "url": "/media/S__33259591_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259593_0.jpg",
+      "url": "/media/S__33259593_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259553_0.jpg",
+      "url": "/media/S__33259553_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "VOICE  shortcut2.png",
+      "url": "/media/VOICE  shortcut2.png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259527_0.jpg",
+      "url": "/media/S__33259527_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259546_0.jpg",
+      "url": "/media/S__33259546_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259586_0.jpg",
+      "url": "/media/S__33259586_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259584_0.jpg",
+      "url": "/media/S__33259584_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259579_0.jpg",
+      "url": "/media/S__33259579_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "VOICE  shortcut1.png",
+      "url": "/media/VOICE  shortcut1.png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259544_0.jpg",
+      "url": "/media/S__33259544_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259600_0.jpg",
+      "url": "/media/S__33259600_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259525_0.jpg",
+      "url": "/media/S__33259525_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259599_0.jpg",
+      "url": "/media/S__33259599_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259604_0.jpg",
+      "url": "/media/S__33259604_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259540_0.jpg",
+      "url": "/media/S__33259540_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259582_0.jpg",
+      "url": "/media/S__33259582_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259545_0.jpg",
+      "url": "/media/S__33259545_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259601_0.jpg",
+      "url": "/media/S__33259601_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259585_0.jpg",
+      "url": "/media/S__33259585_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259578_0.jpg",
+      "url": "/media/S__33259578_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "VOICE  shortcut2(1).png",
+      "url": "/media/VOICE  shortcut2(1).png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259526_0.jpg",
+      "url": "/media/S__33259526_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259607.jpg",
+      "url": "/media/S__33259607.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259583_0.jpg",
+      "url": "/media/S__33259583_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259549.jpg",
+      "url": "/media/S__33259549.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259575.jpg",
+      "url": "/media/S__33259575.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "HRM1(1).png",
+      "url": "/media/HRM1(1).png",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259605_0.jpg",
+      "url": "/media/S__33259605_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259588.jpg",
+      "url": "/media/S__33259588.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259541_0.jpg",
+      "url": "/media/S__33259541_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    },
+    {
+      "filename": "S__33259539_0.jpg",
+      "url": "/media/S__33259539_0.jpg",
+      "day": "DAY 3",
+      "type": "screenshot"
+    }
+  ],
+  "atmosphereMedia": [
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_47.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_47.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_46.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_46.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_44.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_44.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_45.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_45.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_41.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_41.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_40.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_40.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_42.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_42.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_43.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_43.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_24.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_24.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_30.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_30.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_18.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_18.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_2.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_2.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_3.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_3.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_19.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_19.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_31.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_31.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_25.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_25.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_33.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_33.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_27.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_27.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_1.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_1.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_26.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_26.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_32.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_32.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_36.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_36.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_22.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_22.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_4.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_4.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_5.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_5.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_23.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_23.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_37.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_37.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_21.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_21.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_35.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_35.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_7.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_7.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_6.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_6.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_34.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_34.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_20.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_20.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_11.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_11.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_39.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_39.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_38.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_38.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_10.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_10.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_12.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_12.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_8.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_8.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_9.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_9.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_13.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_13.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_17.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_17.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_16.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_16.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_28.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_28.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_14.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_14.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_15.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_15.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_29.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_29.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 140926_260914_48.jpg",
+      "url": "/media/LINE_ALBUM_Training 140926_260914_48.jpg",
+      "day": "DAY 1-2",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_60.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_60.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_48.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_48.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_49.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_49.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_61.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_61.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_63.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_63.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_62.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_62.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_59.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_59.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_64.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_64.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_58.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_58.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_17.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_17.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_16.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_16.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_1.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_1.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_3.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_3.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_14.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_14.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_28.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_28.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_29.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_29.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_2.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_2.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_15.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_15.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_39.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_39.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_11.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_11.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_6.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_6.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_10.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_10.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_7.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_7.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_38.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_38.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_5.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_5.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_12.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_12.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_4.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_4.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_13.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_13.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_36.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_36.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_22.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_22.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_9.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_9.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_8.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_8.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_23.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_23.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_37.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_37.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_21.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_21.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_35.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_35.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_34.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_34.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_20.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_20.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_18.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_18.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_24.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_24.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_30.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_30.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_31.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_31.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_25.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_25.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_19.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_19.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_33.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_33.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_27.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_27.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_26.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_26.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_32.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_32.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_55.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_55.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_41.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_41.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_40.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_40.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_54.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_54.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_42.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_42.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_56.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_56.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_57.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_57.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_43.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_43.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_47.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_47.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_53.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_53.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_52.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_52.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_46.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_46.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_50.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_50.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_44.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_44.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_45.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_45.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    },
+    {
+      "filename": "LINE_ALBUM_Training 110926_260911_51.jpg",
+      "url": "/media/LINE_ALBUM_Training 110926_260911_51.jpg",
+      "day": "DAY 3",
+      "type": "photo"
+    }
+  ],
+  "videos": [
+    {
+      "filename": "IMG_1996.MOV",
+      "url": "/media/IMG_1996.MOV",
+      "day": "DAY 1-2"
+    },
+    {
+      "filename": "811057670.949975.mp4",
+      "url": "/media/811057670.949975.mp4",
+      "day": "DAY 1-2"
+    },
+    {
+      "filename": "810807668.959860.mp4",
+      "url": "/media/810807668.959860.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807668.615296.mp4",
+      "url": "/media/810807668.615296.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807668.802916.mp4",
+      "url": "/media/810807668.802916.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807665.996350.mp4",
+      "url": "/media/810807665.996350.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807668.469533.mp4",
+      "url": "/media/810807668.469533.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806840.340814.mp4",
+      "url": "/media/810806840.340814.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807668.570567.mp4",
+      "url": "/media/810807668.570567.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806839.855992.mp4",
+      "url": "/media/810806839.855992.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806840.072864.mp4",
+      "url": "/media/810806840.072864.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807530.773398.mp4",
+      "url": "/media/810807530.773398.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807668.396712.mp4",
+      "url": "/media/810807668.396712.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806838.923849.mp4",
+      "url": "/media/810806838.923849.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806839.409271.mp4",
+      "url": "/media/810806839.409271.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806839.263178.mp4",
+      "url": "/media/810806839.263178.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807668.889889.mp4",
+      "url": "/media/810807668.889889.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806840.142480.mp4",
+      "url": "/media/810806840.142480.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810806839.605245.mp4",
+      "url": "/media/810806839.605245.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807665.857688.mp4",
+      "url": "/media/810807665.857688.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807666.528219.mp4",
+      "url": "/media/810807666.528219.mp4",
+      "day": "DAY 3"
+    },
+    {
+      "filename": "810807668.698433.mp4",
+      "url": "/media/810807668.698433.mp4",
+      "day": "DAY 3"
+    }
+  ],
+  "executiveReport": {
+    "title": "รายงานสรุปยุทธศาสตร์ปัญญาประดิษฐ์และนวัตกรรมบริการดิจิทัล โรงพยาบาลเวชธานี 2569",
+    "subtitle": "AI Transformation Strategy: PACC + ASD + CXTSP + Multi-Agent Emergency Workflows",
+    "bluf": "โครงการยุทธศาสตร์ AI สามารถยกระดับการให้บริการทางการแพทย์ ลดระยะเวลาสะสมในกระบวนการ (Process Bottleneck) ได้กว่า 42% และลดความเสี่ยงข้อผิดพลาดทางการแพทย์ด้วยสถาปัตยกรรม Multi-Agent Real-time",
+    "costOfInaction": [
+      {
+        "item": "ระยะเวลารอคอยของผู้ป่วยสากล (International Patient Wait Time)",
+        "inaction": "เพิ่มขึ้น 25-35% ต่อปีเนื่องจากความซับซ้อนของเอกสาร",
+        "investment": "ลดเหลือไม่เกิน 15 นาทีด้วย IDP & Automated Triage"
+      },
+      {
+        "item": "ค่าใช้จ่ายภาระงานซ้ำซ้อนของบุคลากร (Staff Workload Overhead)",
+        "inaction": "สูญเสียงบประมาณกว่า 12.4M บาท/ปี",
+        "investment": "คืนเวลาให้พยาบาลและแพทย์หมอได้ 3.5 ชม./คน/วัน"
+      },
+      {
+        "item": "ความเสี่ยงด้านข้อมูลและการปฏิบัติตามกฎหมาย (PDPA & JCI Risk)",
+        "inaction": "เสี่ยงปรับสูงสุด 5M บาท และเสียชื่อเสียงองค์กร",
+        "investment": "ระบบ Security Playbook & Anonymization Rule 100%"
+      }
+    ],
+    "riskImpactMatrix": [
+      {
+        "risk": "Data Privacy Leakage in Clinical AI",
+        "likelihood": "Low",
+        "impact": "High",
+        "mitigation": "Deploy On-prem / Local LLM Gateway with Masking API"
+      },
+      {
+        "risk": "User Adoption Resistance from Hospital Staff",
+        "likelihood": "Medium",
+        "impact": "Medium",
+        "mitigation": "Gamified Training & Prompt Champion Network"
+      },
+      {
+        "risk": "Legacy HIS System Integration Bottlenecks",
+        "likelihood": "High",
+        "impact": "High",
+        "mitigation": "Build Async Microservices / Event-Driven Webhooks"
+      }
+    ]
+  }
+}
