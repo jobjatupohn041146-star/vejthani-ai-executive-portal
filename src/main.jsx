@@ -573,43 +573,12 @@ function GeminiArtifactsHub() {
 
   return (
     <div className="github-portal">
-      {/* GitHub Repository Header */}
-      <div className="github-repo-header">
-        <div className="github-repo-breadcrumb">
-          <FolderGit2 size={18} style={{ color: '#64748b' }} />
-          <span className="org-name">vejthani-hospital</span>
-          <span className="slash">/</span>
-          <strong className="repo-name">ai-workshop-artifacts-2026</strong>
-          <span className="github-pill-badge">Public Repository</span>
-          <span className="github-pill-badge verified"><CheckCircle2 size={13} /> Verified Artifacts</span>
+      <div className="page-heading">
+        <div>
+          <p className="eyebrow">EXECUTIVE GEMINI REPOSITORY</p>
+          <h2>ลิงก์ผลงานและชุดคำสั่ง AI (Gemini References & Prompts)</h2>
         </div>
-        <p className="github-repo-desc">
-          คลังผลงานและชุดคำสั่ง AI เชิงปฏิบัติการ (Executive Artifacts & Gemini Prompt Repositories) ที่พัฒนาโดยคณะทำงาน AI Strategy โรงพยาบาลเวชธานี (PACC + ASD + CXTSP)
-        </p>
-        
-        {/* GitHub Stats Row */}
-        <div className="github-stats-bar">
-          <div className="github-stat-card">
-            <span className="stat-label"><Layers size={14} /> ผลงานทั้งหมด</span>
-            <strong className="stat-val">{counts.total}</strong>
-          </div>
-          <div className="github-stat-card gemini">
-            <span className="stat-label"><Sparkles size={14} /> Gemini Sessions</span>
-            <strong className="stat-val">{counts.gemini}</strong>
-          </div>
-          <div className="github-stat-card docs">
-            <span className="stat-label"><FileText size={14} /> แผนงาน Docs</span>
-            <strong className="stat-val">{counts.docs}</strong>
-          </div>
-          <div className="github-stat-card gems">
-            <span className="stat-label"><Bot size={14} /> Custom Gems</span>
-            <strong className="stat-val">{counts.gems}</strong>
-          </div>
-          <div className="github-stat-card contributors">
-            <span className="stat-label"><Users size={14} /> คณะทำงานผู้สร้าง</span>
-            <strong className="stat-val">{counts.contributors} ผู้นำฝ่าย</strong>
-          </div>
-        </div>
+        <span className="result-count">{filteredLinks.length} รายการ</span>
       </div>
 
       {/* GitHub Search & Filter Toolbar */}
