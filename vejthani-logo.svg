@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title">
+  <title>Vejthani Hospital</title>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#137fa4"/><stop offset="1" stop-color="#3157a8"/></linearGradient></defs>
+  <path fill="url(#g)" d="M28 21h25l24 57 24-57h25L88 105H67z"/>
+  <circle cx="79" cy="19" r="16" fill="#f47b38"/><path fill="#fff" d="M75 8h8v7h7v8h-7v7h-8v-7h-7v-8h7z"/>
+  <text x="145" y="65" fill="#3157a8" font-family="Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="2">VEJTHANI</text>
+  <text x="148" y="91" fill="#4aa9c1" font-family="Arial,sans-serif" font-size="14" letter-spacing="5">HOSPITAL</text>
+</svg>
