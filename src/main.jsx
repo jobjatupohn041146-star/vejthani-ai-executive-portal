@@ -78,11 +78,25 @@ const displayTitle = (item) => {
   if (/S__6078751/i.test(name)) return 'ภาพบันทึกคำสั่ง AI: ROPA & PDPA Compliance Auditor Gems';
   if (/S__74850309/i.test(name)) return 'ภาพบันทึกคำสั่ง AI: รายการ Enterprise Gems คณะทำงาน AI';
   if (/S__205054107/i.test(name)) return 'Google Gems: ผังระบบจัดการทรัพยากรและยุทธศาสตร์ 6 ด้าน';
+  if (/short PACC/i.test(name)) return 'AI Prompt Shortcut: 20 คำสั่งลัดสร้างระบบงานจริงสำหรับแผนก PACC';
+  if (/short ASD/i.test(name)) return 'AI Prompt Shortcut: 20 คำสั่งลัดสร้างระบบงานจริงสำหรับแผนก ASD';
+  if (/short CXTSP/i.test(name)) return 'AI Prompt Shortcut: 20 คำสั่งลัดสร้างระบบงานจริงสำหรับแผนก CXTSP';
+  if (/Screenshot.*08\.15\.53/i.test(name) || /Vibe Code/i.test(name)) return 'Vibe Code: 5 ขั้นตอนสร้างแอพด้วย AI จากไอเดียสู่ใช้งานจริง';
   return name.replace(/^\d+/, '').replace(/[_-]+/g, ' ').replace(/\s+/g, ' ').trim() || 'ภาพผลงานจากโครงการ';
 };
 
 const displayFileTitle = (item) => {
   const title = item.title.replace(/\.[^.]+$/, '');
+  if (/17_Apps_Portfolio/i.test(title)) return 'Vejthani Antigravity 17 AI Apps Enterprise Portfolio (24 หน้า)';
+  if (/vejthani-antigravity-project-portfolio/i.test(title)) return 'แบบจำลองสถาปัตยกรรม & คำนวณ ROI 17 AI Projects (Excel)';
+  if (/vibe-coding-idea-architect/i.test(title)) return 'Vibe Coding Idea Architect Project Prototype';
+  if (/VOICE PACC/i.test(title)) return 'Master Prompt สนทนาเสียง (Voice AI) แผนก PACC';
+  if (/voice ASD/i.test(title)) return 'Master Prompt สนทนาเสียง (Voice AI) แผนก ASD';
+  if (/VOICE CXTSP/i.test(title)) return 'Master Prompt สนทนาเสียง (Voice AI) แผนก CXTSP';
+  if (/digital SOP/i.test(title)) return 'Digital SOP ชุดคำสั่งสร้างระบบงานมาตรฐาน 3 แผนก';
+  if (/สร้างระบบทั้ง3แผนก/i.test(title)) return 'คู่มือคำสั่งสร้างเว็บแอปพลิเคชันระบบงาน 3 แผนก';
+  if (/แบบทดสอบความรู้/i.test(title)) return 'แบบทดสอบความรู้และ Interactive Prompt Exam 3 แผนก';
+  if (/แบบสอบถามการบริการ/i.test(title)) return 'แบบประเมินและสำรวจความพึงพอใจการบริการรวม 3 แผนก';
   if (/ช่องแชท|เวิคช้อป/i.test(title)) return 'เอกสารประกอบการอบรม (AI Workshop Notes)';
   if (/AI_Backlog_Killer_Subcontract/i.test(title)) return 'AI Backlog Killer Subcontract KPI Report';
   if (/AI Backlog Killer Requirement/i.test(title)) return 'AI Backlog Killer Requirements Management';
@@ -1520,12 +1534,13 @@ function App() {
   // Strict Categorization
   const portfolioItems = useMemo(() => filteredFiles.filter((i) => i.category === 'Portfolio'), [filteredFiles]);
   const textScreenshotItems = useMemo(() => filteredFiles.filter((i) => i.category === 'TextScreenshots'), [filteredFiles]);
-  const atmospherePhotos = useMemo(() => filteredFiles.filter((i) => i.category === 'Atmosphere' && i.type === 'Image / บรรยากาศ'), [filteredFiles]);
-  const atmosphereVideos = useMemo(() => filteredFiles.filter((i) => i.category === 'Atmosphere' && i.type === 'Video / สื่อ'), [filteredFiles]);
+  const atmospherePhotos = useMemo(() => filteredFiles.filter((i) => i.category === 'Atmosphere' && (i.type.includes('Image') || i.file.match(/\.(jpg|jpeg|png)$/i))), [filteredFiles]);
+  const atmosphereVideos = useMemo(() => filteredFiles.filter((i) => i.category === 'Atmosphere' && (i.type.includes('Video') || i.file.match(/\.(mp4|mov)$/i))), [filteredFiles]);
   const documents = useMemo(() => filteredFiles.filter((i) => i.category === 'Documents' || i.category === 'Admin'), [filteredFiles]);
 
   const day1Files = useMemo(() => filteredFiles.filter(i => i.day === 'Day 1'), [filteredFiles]);
   const day2Files = useMemo(() => filteredFiles.filter(i => i.day === 'Day 2'), [filteredFiles]);
+  const day3Files = useMemo(() => filteredFiles.filter(i => i.day === 'Day 3'), [filteredFiles]);
 
   const openPreview = (item) => setPreview(item);
 
@@ -1592,6 +1607,13 @@ function App() {
               <CalendarDays size={15} />
               <span>DAY 2 <small>(17 ก.ย. 2569)</small></span>
             </button>
+            <button
+              className={`day-tab day3 ${view === 'Day3' ? 'active' : ''}`}
+              onClick={() => setView('Day3')}
+            >
+              <CalendarDays size={15} />
+              <span>DAY 3 <small>(21 ก.ย. 2569)</small></span>
+            </button>
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
@@ -1625,12 +1647,12 @@ function App() {
               <section className="hero">
                 <div className="hero-copy">
                   <p className="eyebrow">VEJTHANI HOSPITAL HEALTHCARE IT & AI STRATEGY</p>
-                  <h1>รายงานสรุปยุทธศาสตร์ AI<br /><span>กลุ่ม AI for PACC + ASD + CXTSP (14 & 17 กันยายน 2569)</span></h1>
-                  <p className="lead">โครงการขับเคลื่อนนวัตกรรม AI โรงพยาบาลเวชธานี ตลอดการอบรม 2 วันเต็ม (ข้อมูลหลักฐาน 167 รายการ ตรวจสอบถูกต้อง 100%)</p>
+                  <h1>รายงานสรุปยุทธศาสตร์ AI<br /><span>กลุ่ม AI for PACC + ASD + CXTSP (14, 17 & 21 กันยายน 2569)</span></h1>
+                  <p className="lead">โครงการขับเคลื่อนนวัตกรรม AI โรงพยาบาลเวชธานี ตลอดการอบรม 3 วันเต็ม (ข้อมูลหลักฐาน {sourceFiles.length} รายการ ตรวจสอบถูกต้อง 100%)</p>
                   <div className="hero-meta">
                     <span><ShieldCheck size={16} /> ตรวจสอบจากโฟลเดอร์โครงการ 100%</span>
                     <span><FileText size={16} /> {sourceFiles.length} รายการหลักฐาน</span>
-                    <span><CalendarDays size={16} /> อบรม 2 วัน (14 & 17 ก.ย. 2569)</span>
+                    <span><CalendarDays size={16} /> อบรม 3 วัน (14, 17 & 21 ก.ย. 2569)</span>
                   </div>
                 </div>
               </section>
@@ -1638,6 +1660,7 @@ function App() {
               <section className="stats">
                 <article><span className="stat-icon orange"><CalendarDays /></span><div><strong>{day1Files.length}</strong><small>DAY 1 (14 ก.ย. 2569)</small></div></article>
                 <article><span className="stat-icon purple"><CalendarDays /></span><div><strong>{day2Files.length}</strong><small>DAY 2 (17 ก.ย. 2569)</small></div></article>
+                <article><span className="stat-icon cyan" style={{ background: '#ecfeff', color: '#0891b2' }}><CalendarDays /></span><div><strong>{day3Files.length}</strong><small>DAY 3 (21 ก.ย. 2569)</small></div></article>
                 <article><span className="stat-icon blue"><ImageIcon /></span><div><strong>{portfolioItems.length}</strong><small>พอร์ตโฟลิโอผลงาน</small></div></article>
                 <article><span className="stat-icon green"><FileSpreadsheet /></span><div><strong>{documents.length}</strong><small>คลังเอกสาร & รายงาน</small></div></article>
               </section>
@@ -1683,6 +1706,21 @@ function App() {
               <ImageGallery title="ภาพหน้าจอแชทและข้อความคำสั่ง AI DAY 2 (Isolate)" items={textScreenshotItems.filter(i => i.day === 'Day 2')} openPreview={openPreview} />
               <FileGallery title="คลังเอกสารและบทวิเคราะห์ DAY 2" items={documents.filter(i => i.day === 'Day 2')} openFile={(item) => window.open(fileUrl(item), '_blank', 'noopener,noreferrer')} />
               <AtmosphereGallery images={atmospherePhotos.filter(i => i.day === 'Day 2')} videos={atmosphereVideos.filter(i => i.day === 'Day 2')} openPreview={openPreview} openVideo={setVideoPreview} />
+            </div>
+          )}
+
+          {view === 'Day3' && (
+            <div className="works-galleries">
+              <div className="page-heading">
+                <div>
+                  <p className="eyebrow">DAY 3 WORKSHOP & VIBE CODE</p>
+                  <h2>DAY 3: 21 กันยายน 2569 (Vibe Code & 17 AI Apps Enterprise Portfolio)</h2>
+                </div>
+                <span className="result-count">{day3Files.length} รายการ</span>
+              </div>
+              <ImageGallery title="พอร์ตโฟลิโอและภาพผลงาน DAY 3 (Vibe Code & AI Prompt Shortcuts)" items={portfolioItems.filter(i => i.day === 'Day 3')} openPreview={openPreview} />
+              <FileGallery title="คลังเอกสารและเครื่องมือยุทธศาสตร์ DAY 3 (17 Apps Portfolio & Voice Master Prompts)" items={documents.filter(i => i.day === 'Day 3')} openFile={(item) => window.open(fileUrl(item), '_blank', 'noopener,noreferrer')} />
+              <AtmosphereGallery images={atmospherePhotos.filter(i => i.day === 'Day 3')} videos={atmosphereVideos.filter(i => i.day === 'Day 3')} openPreview={openPreview} openVideo={setVideoPreview} />
             </div>
           )}
 
