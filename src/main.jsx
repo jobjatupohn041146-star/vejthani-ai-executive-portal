@@ -4,7 +4,7 @@ import {
   BarChart3, CalendarDays, ExternalLink, FileText, Filter, Image as ImageIcon,
   Menu, Play, Search, ShieldCheck, Users, WandSparkles, X,
   Printer, ArrowLeft, FileSpreadsheet, Brain, ArrowUpRight, Archive, FileImage,
-  CheckCircle2, Sparkles, Tag, Bot, Layers, Globe, FolderGit2
+  CheckCircle2, Sparkles, Tag, Bot, Layers, Globe, FolderGit2, Calendar
 } from 'lucide-react';
 import './styles.css';
 import { sourceFiles } from './sourceManifest';
@@ -528,6 +528,7 @@ function GeminiArtifactsHub() {
   const [search, setSearch] = useState('');
   const [typeFilter, setTypeFilter] = useState('ALL');
   const [deptFilter, setDeptFilter] = useState('ALL');
+  const [dayFilter, setDayFilter] = useState('ALL');
 
   const counts = useMemo(() => {
     return {
@@ -535,6 +536,9 @@ function GeminiArtifactsHub() {
       gemini: geminiLinks.filter(l => l.type === 'gemini_share').length,
       docs: geminiLinks.filter(l => l.type === 'google_docs').length,
       gems: geminiLinks.filter(l => l.type === 'custom_gem').length,
+      day1: geminiLinks.filter(l => l.day === 'Day 1').length,
+      day2: geminiLinks.filter(l => l.day === 'Day 2').length,
+      day3: geminiLinks.filter(l => l.day === 'Day 3').length,
       contributors: new Set(geminiLinks.map(l => l.authorName || l.author)).size
     };
   }, []);
@@ -549,12 +553,13 @@ function GeminiArtifactsHub() {
     return geminiLinks.filter(item => {
       const matchType = typeFilter === 'ALL' || item.type === typeFilter;
       const matchDept = deptFilter === 'ALL' || item.department === deptFilter;
-      if (!matchType || !matchDept) return false;
+      const matchDay = dayFilter === 'ALL' || item.day === dayFilter;
+      if (!matchType || !matchDept || !matchDay) return false;
       if (!s) return true;
       const corpus = `${item.title} ${item.description} ${item.author} ${item.authorName} ${item.role} ${item.department} ${(item.tags || []).join(' ')}`.toLowerCase();
       return corpus.includes(s);
     });
-  }, [search, typeFilter, deptFilter]);
+  }, [search, typeFilter, deptFilter, dayFilter]);
 
   const getTypeBadge = (type) => {
     if (type === 'google_docs') {
@@ -643,8 +648,37 @@ function GeminiArtifactsHub() {
         </div>
       </div>
 
+      {/* Day Filter Pills */}
+      <div className="github-day-bar" style={{ marginTop: '0.6rem', marginBottom: '0.5rem' }}>
+        <span className="day-label"><Calendar size={13} /> รุ่นการอบรม:</span>
+        <button
+          className={`github-day-pill ${dayFilter === 'ALL' ? 'active' : ''}`}
+          onClick={() => setDayFilter('ALL')}
+        >
+          ทุกวัน ({counts.total})
+        </button>
+        <button
+          className={`github-day-pill day1 ${dayFilter === 'Day 1' ? 'active' : ''}`}
+          onClick={() => setDayFilter('Day 1')}
+        >
+          DAY 1 (14 ก.ย.) ({counts.day1})
+        </button>
+        <button
+          className={`github-day-pill day2 ${dayFilter === 'Day 2' ? 'active' : ''}`}
+          onClick={() => setDayFilter('Day 2')}
+        >
+          DAY 2 (17-18 ก.ย.) ({counts.day2})
+        </button>
+        <button
+          className={`github-day-pill day3 ${dayFilter === 'Day 3' ? 'active' : ''}`}
+          onClick={() => setDayFilter('Day 3')}
+        >
+          DAY 3 (21 ก.ย.) ({counts.day3})
+        </button>
+      </div>
+
       {/* Department Filter Pills */}
-      <div className="github-dept-bar">
+      <div className="github-dept-bar" style={{ marginTop: '0.4rem' }}>
         <span className="dept-label"><Tag size={13} /> คัดกรองตามฝ่าย:</span>
         {departments.map((dept) => (
           <button
@@ -673,6 +707,9 @@ function GeminiArtifactsHub() {
                   <span>{typeMeta.label}</span>
                 </div>
                 <div className="github-card-meta">
+                  <span className={`github-day-badge ${item.day === 'Day 3' ? 'day3' : item.day === 'Day 2' ? 'day2' : 'day1'}`}>
+                    {item.day || 'Day 1'}
+                  </span>
                   <span>{item.date || '14 ก.ย. 2569'}</span>
                   <span className="verified-check" title="ลิงก์ตรวจสอบสมบูรณ์"><CheckCircle2 size={13} /></span>
                 </div>
