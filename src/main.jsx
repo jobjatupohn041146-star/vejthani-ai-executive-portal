@@ -667,7 +667,7 @@ function GeminiArtifactsHub() {
           className={`github-day-pill day2 ${dayFilter === 'Day 2' ? 'active' : ''}`}
           onClick={() => setDayFilter('Day 2')}
         >
-          DAY 2 (17-18 ก.ย.) ({counts.day2})
+          DAY 2 (18 ก.ย.) ({counts.day2})
         </button>
         <button
           className={`github-day-pill day3 ${dayFilter === 'Day 3' ? 'active' : ''}`}
@@ -803,14 +803,14 @@ function ExecutiveFormalReport({ onBack }) {
               <span style={{ color: '#0284c7', fontSize: '1.65rem', fontWeight: '800' }}>(AI FOR PACC + ASD + CXTSP)</span>
             </h1>
             <p style={{ color: '#475569', fontSize: '0.98rem', lineHeight: 1.6, maxWidth: '680px', marginTop: '1rem' }}>
-              สรุปผลการจัดอบรมเชิงปฏิบัติการบุคลากรทางการแพทย์ พยาบาล และระบบสนับสนุน 2 วันเต็ม (14 & 17 กันยายน 2569) เพื่อยกระดับความเร็วบริการ คืนเวลาปฏิบัติงาน และมุ่งสู่เป้าหมายรายได้ 10,000 ล้านบาท
+              สรุปผลการจัดอบรมเชิงปฏิบัติการบุคลากรทางการแพทย์ พยาบาล และระบบสนับสนุน 3 วันเต็ม (14, 18 & 21 กันยายน 2569) เพื่อยกระดับความเร็วบริการ คืนเวลาปฏิบัติงาน และมุ่งสู่เป้าหมายรายได้ 10,000 ล้านบาท
             </p>
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '1.2rem', background: '#f8fafc', padding: '1.4rem', borderRadius: '14px', border: '1px solid #e2e8f0' }}>
             <div>
               <small style={{ color: '#64748b', fontSize: '0.72rem', display: 'block', textTransform: 'uppercase', fontWeight: 700 }}>ช่วงเวลาดำเนินการ</small>
-              <strong style={{ color: '#0c265c', fontSize: '0.92rem' }}>14 & 17 กันยายน 2569</strong>
+              <strong style={{ color: '#0c265c', fontSize: '0.92rem' }}>14, 18 & 21 กันยายน 2569</strong>
             </div>
             <div>
               <small style={{ color: '#64748b', fontSize: '0.72rem', display: 'block', textTransform: 'uppercase', fontWeight: 700 }}>หน่วยงานรับผิดชอบ</small>
@@ -1306,7 +1306,7 @@ function ExecutiveFormalReport({ onBack }) {
           </div>
 
           <p style={{ color: '#475569', fontSize: '0.85rem', lineHeight: 1.5, marginBottom: '0.8rem' }}>
-            กรอบการบริหารความเสี่ยง มาตรฐานความปลอดภัยข้อมูลทางคลินิก JCI v8 และการคุ้มครองข้อมูลส่วนบุคคล (PDPA) ในการสัมมนาเชิงปฏิบัติการ (14 & 17 กันยายน 2569)
+            กรอบการบริหารความเสี่ยง มาตรฐานความปลอดภัยข้อมูลทางคลินิก JCI v8 และการคุ้มครองข้อมูลส่วนบุคคล (PDPA) ในการสัมมนาเชิงปฏิบัติการ (14, 18 & 21 กันยายน 2569)
           </p>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '0.8rem', marginBottom: '1rem' }}>
@@ -1498,7 +1498,7 @@ function ExecutiveFormalReport({ onBack }) {
               <div className="signature-line" />
               <span className="sig-name">นพ. ชัยสิทธิ์ คุปต์วิวัฒน์</span>
               <span className="sig-role">ประธานเจ้าหน้าที่บริหารฝ่ายปฏิบัติการ / Chief Operating Officer</span>
-              <span className="sig-date">วันที่: 17 กันยายน 2569</span>
+              <span className="sig-date">วันที่: 21 กันยายน 2569</span>
             </div>
 
             <div className="signature-box">
@@ -1506,7 +1506,7 @@ function ExecutiveFormalReport({ onBack }) {
               <div className="signature-line" />
               <span className="sig-name">นพ. สมคิด อุดมกิจปัญญา</span>
               <span className="sig-role">ผู้อำนวยการฝ่ายการแพทย์ / Medical Director</span>
-              <span className="sig-date">วันที่: 17 กันยายน 2569</span>
+              <span className="sig-date">วันที่: 21 กันยายน 2569</span>
             </div>
 
             <div className="signature-box">
@@ -1514,7 +1514,7 @@ function ExecutiveFormalReport({ onBack }) {
               <div className="signature-line" />
               <span className="sig-name">ดร. ธีรดิตถ์ โพธิตระกูล</span>
               <span className="sig-role">หัวหน้าคณะทำงาน AI Strategy Transformation</span>
-              <span className="sig-date">วันที่: 17 กันยายน 2569</span>
+              <span className="sig-date">วันที่: 21 กันยายน 2569</span>
             </div>
           </div>
 
@@ -1642,7 +1642,7 @@ function App() {
               onClick={() => setView('Day2')}
             >
               <CalendarDays size={15} />
-              <span>DAY 2 <small>(17 ก.ย. 2569)</small></span>
+              <span>DAY 2 <small>(18 ก.ย. 2569)</small></span>
             </button>
             <button
               className={`day-tab day3 ${view === 'Day3' ? 'active' : ''}`}
@@ -1684,19 +1684,19 @@ function App() {
               <section className="hero">
                 <div className="hero-copy">
                   <p className="eyebrow">VEJTHANI HOSPITAL HEALTHCARE IT & AI STRATEGY</p>
-                  <h1>รายงานสรุปยุทธศาสตร์ AI<br /><span>กลุ่ม AI for PACC + ASD + CXTSP (14, 17 & 21 กันยายน 2569)</span></h1>
+                  <h1>รายงานสรุปยุทธศาสตร์ AI<br /><span>กลุ่ม AI for PACC + ASD + CXTSP (14, 18 & 21 กันยายน 2569)</span></h1>
                   <p className="lead">โครงการขับเคลื่อนนวัตกรรม AI โรงพยาบาลเวชธานี ตลอดการอบรม 3 วันเต็ม (ข้อมูลหลักฐาน {sourceFiles.length} รายการ ตรวจสอบถูกต้อง 100%)</p>
                   <div className="hero-meta">
                     <span><ShieldCheck size={16} /> ตรวจสอบจากโฟลเดอร์โครงการ 100%</span>
                     <span><FileText size={16} /> {sourceFiles.length} รายการหลักฐาน</span>
-                    <span><CalendarDays size={16} /> อบรม 3 วัน (14, 17 & 21 ก.ย. 2569)</span>
+                    <span><CalendarDays size={16} /> อบรม 3 วัน (14, 18 & 21 ก.ย. 2569)</span>
                   </div>
                 </div>
               </section>
 
               <section className="stats">
                 <article><span className="stat-icon orange"><CalendarDays /></span><div><strong>{day1Files.length}</strong><small>DAY 1 (14 ก.ย. 2569)</small></div></article>
-                <article><span className="stat-icon purple"><CalendarDays /></span><div><strong>{day2Files.length}</strong><small>DAY 2 (17 ก.ย. 2569)</small></div></article>
+                <article><span className="stat-icon purple"><CalendarDays /></span><div><strong>{day2Files.length}</strong><small>DAY 2 (18 ก.ย. 2569)</small></div></article>
                 <article><span className="stat-icon cyan" style={{ background: '#ecfeff', color: '#0891b2' }}><CalendarDays /></span><div><strong>{day3Files.length}</strong><small>DAY 3 (21 ก.ย. 2569)</small></div></article>
                 <article><span className="stat-icon blue"><ImageIcon /></span><div><strong>{portfolioItems.length}</strong><small>พอร์ตโฟลิโอผลงาน</small></div></article>
                 <article><span className="stat-icon green"><FileSpreadsheet /></span><div><strong>{documents.length}</strong><small>คลังเอกสาร & รายงาน</small></div></article>
@@ -1735,7 +1735,7 @@ function App() {
               <div className="page-heading">
                 <div>
                   <p className="eyebrow">DAY 2 WORKSHOP</p>
-                  <h2>DAY 2: 17 กันยายน 2569 (AI Backlog Killer & Executive Briefs)</h2>
+                  <h2>DAY 2: 18 กันยายน 2569 (AI Backlog Killer & Executive Briefs)</h2>
                 </div>
                 <span className="result-count">{day2Files.length} รายการ</span>
               </div>
