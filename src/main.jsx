@@ -31,8 +31,8 @@ const navIcons = {
 };
 
 const displayTitle = (item) => {
-  if (item.type !== 'Image / ผลงาน' && item.type !== 'Screenshot / บทสนทนา') return item.title;
-  const name = item.title.replace(/\.[^.]+$/, '');
+  if (!item) return '';
+  const name = (item.title || '').replace(/\.[^.]+$/, '');
   if (/LINE_ALBUM_Training/i.test(name)) {
     const number = name.match(/_(\d+)$/)?.[1];
     return `ภาพบรรยากาศการอบรม ${number ? `· ภาพที่ ${Number(number)}` : ''}`;
@@ -82,11 +82,37 @@ const displayTitle = (item) => {
   if (/short ASD/i.test(name)) return 'AI Prompt Shortcut: 20 คำสั่งลัดสร้างระบบงานจริงสำหรับแผนก ASD';
   if (/short CXTSP/i.test(name)) return 'AI Prompt Shortcut: 20 คำสั่งลัดสร้างระบบงานจริงสำหรับแผนก CXTSP';
   if (/Screenshot.*08\.15\.53/i.test(name) || /Vibe Code/i.test(name)) return 'Vibe Code: 5 ขั้นตอนสร้างแอพด้วย AI จากไอเดียสู่ใช้งานจริง';
+  // DAY 4 Mappings
+  if (/01_31_36/i.test(name)) return '12-Frame Cinematic Storyboard: สตอรี่บอร์ด 12 ช่องโรงพยาบาลเวชธานี';
+  if (/^ASD\.png$/i.test(item?.title || '')) return '12-Frame Storyboard AI Video: แผนก ASD สื่อสารอาคารสถานที่และบริการ';
+  if (/^CXTSP\.png$/i.test(item?.title || '')) return '12-Frame Storyboard AI Video: แผนก CXTSP สื่อสารประสบการณ์และข้อร้องเรียน';
+  if (/^PACC\.png$/i.test(item?.title || '')) return '12-Frame Storyboard AI Video: แผนก PACC สื่อสารการเข้าถึงและ Patient Journey';
+  if (/Flow ลดต้นทุน/i.test(name)) return 'Healthcare Cost Reduction Flow: ผังการลดต้นทุนและเพิ่มประสิทธิภาพโรงพยาบาล';
+  if (/ข้อความตามกฎหมาย/i.test(name)) return 'Healthcare Medical Ads & Ethics Compliance: เกณฑ์ความปลอดภัยโฆษณาการแพทย์ (มาตรา 38)';
+  if (/1581FCA5/i.test(name)) return 'ผลงานออกแบบสตอรี่บอร์ด AI: วิดีโอจำลองการแพทย์ (Scene 1)';
+  if (/78cc7918/i.test(name)) return 'ผลงานออกแบบสตอรี่บอร์ด AI: วิดีโอจำลองการแพทย์ (Scene 2)';
+  if (/a5f1a74f/i.test(name)) return 'ผลงานออกแบบสตอรี่บอร์ด AI: วิดีโอจำลองการแพทย์ (Scene 3)';
+  if (/E50954AB/i.test(name)) return 'ผลงานออกแบบสตอรี่บอร์ด AI: วิดีโอจำลองการแพทย์ (Scene 4)';
+  if (/Woman_speaking/i.test(name)) return 'วิดีโอ AI Avatar: แพทย์หญิงอธิบายการผ่าตัดไตด้วยหุ่นยนต์ Da Vinci Xi';
+  if (/Facilities and Support Services Manager/i.test(name)) return 'วิดีโอ AI Role: Facilities and Support Services Manager งานบริหารสนับสนุนโรงพยาบาล';
+  if (/combined_story_30s/i.test(name)) return 'วิดีโอ AI 30s: Combined Storyboard วิดีโอนำเสนอ 30 วินาทีแบบร้อยเรียง';
+  if (/Untitled_Scene.*013245/i.test(name)) return 'วิดีโอ AI Agent VDO: การสร้างภาพยนตร์และโมเดลจำลองบุคลากรการแพทย์เวชธานี';
+  if (/Untitled_Scene.*120227/i.test(name)) return 'วิดีโอ AI Scene: ฉากจำลองการแพทย์ล้ำสมัย (Cinematic Medical Scene 1)';
+  if (/Untitled_Scene.*120108/i.test(name)) return 'วิดีโอ AI Scene: ฉากจำลองการแพทย์ล้ำสมัย (Cinematic Medical Scene 2)';
+  if (/b0b3ed2a/i.test(name)) return 'วิดีโอ AI Scene: ฉากจำลองการแพทย์ล้ำสมัย (Cinematic Medical Scene 3)';
+  if (/b6860028/i.test(name)) return 'วิดีโอ AI 10s: การสื่อสารบริการและนวัตกรรมทางการแพทย์ (Short 1)';
+  if (/27db3551/i.test(name)) return 'วิดีโอ AI 10s: การสื่อสารบริการและนวัตกรรมทางการแพทย์ (Short 2)';
+  if (/วิดีโอไม่มีชื่อ/i.test(name)) return 'วิดีโอผลงาน AI: นำเสนอศูนย์การแพทย์และบริการโรงพยาบาลเวชธานี';
+  if (/811835026|811835025|0705fd90|811835206/i.test(name)) return 'คลิปวิดีโอบันทึกผลงานการอบรม DAY 4 (AI Video Workshop)';
+  if (/654500|288188|288327|654697|S__81027084|S__8831056|S__47267871|S__205267316/i.test(name)) return 'ภาพบรรยากาศการอบรม DAY 4: ปฏิบัติการผลิต AI Video (23 ก.ย. 2569)';
   return name.replace(/^\d+/, '').replace(/[_-]+/g, ' ').replace(/\s+/g, ' ').trim() || 'ภาพผลงานจากโครงการ';
 };
 
 const displayFileTitle = (item) => {
   const title = item.title.replace(/\.[^.]+$/, '');
+  if (/วีดีโอASD/i.test(title)) return '30 หัวข้อและสคริปต์สร้างคลิปวิดีโอสำหรับ ASD โรงพยาบาลเวชธานี (Word)';
+  if (/วีดีโอCXTSP/i.test(title)) return '30 หัวข้อและสคริปต์สร้างคลิปวิดีโอสำหรับ CXTSP โรงพยาบาลเวชธานี (Word)';
+  if (/วีดีโอPACC/i.test(title)) return '30 หัวข้อและสคริปต์สร้างคลิปวิดีโอสำหรับ PACC โรงพยาบาลเวชธานี (Word)';
   if (/17_Apps_Portfolio/i.test(title)) return 'Vejthani Antigravity 17 AI Apps Enterprise Portfolio (24 หน้า)';
   if (/vejthani-antigravity-project-portfolio/i.test(title)) return 'แบบจำลองสถาปัตยกรรม & คำนวณ ROI 17 AI Projects (Excel)';
   if (/vibe-coding-idea-architect/i.test(title)) return 'Vibe Coding Idea Architect Project Prototype';
@@ -534,11 +560,13 @@ function GeminiArtifactsHub() {
     return {
       total: geminiLinks.length,
       gemini: geminiLinks.filter(l => l.type === 'gemini_share').length,
-      docs: geminiLinks.filter(l => l.type === 'google_docs').length,
-      gems: geminiLinks.filter(l => l.type === 'custom_gem').length,
+      docs: geminiLinks.filter(l => l.type === 'google_docs' || l.type === 'google_doc').length,
+      gems: geminiLinks.filter(l => l.type === 'custom_gem' || l.type === 'gemini_gem').length,
+      meta: geminiLinks.filter(l => l.type === 'meta_ai').length,
       day1: geminiLinks.filter(l => l.day === 'Day 1').length,
       day2: geminiLinks.filter(l => l.day === 'Day 2').length,
       day3: geminiLinks.filter(l => l.day === 'Day 3').length,
+      day4: geminiLinks.filter(l => l.day === 'Day 4').length,
       contributors: new Set(geminiLinks.map(l => l.authorName || l.author)).size
     };
   }, []);
@@ -551,7 +579,10 @@ function GeminiArtifactsHub() {
   const filteredLinks = useMemo(() => {
     const s = search.toLowerCase().trim();
     return geminiLinks.filter(item => {
-      const matchType = typeFilter === 'ALL' || item.type === typeFilter;
+      const matchType = typeFilter === 'ALL' ||
+        (typeFilter === 'google_docs' && (item.type === 'google_docs' || item.type === 'google_doc')) ||
+        (typeFilter === 'custom_gem' && (item.type === 'custom_gem' || item.type === 'gemini_gem')) ||
+        item.type === typeFilter;
       const matchDept = deptFilter === 'ALL' || item.department === deptFilter;
       const matchDay = dayFilter === 'ALL' || item.day === dayFilter;
       if (!matchType || !matchDept || !matchDay) return false;
@@ -561,8 +592,21 @@ function GeminiArtifactsHub() {
     });
   }, [search, typeFilter, deptFilter, dayFilter]);
 
-  const getTypeBadge = (type) => {
-    if (type === 'google_docs') {
+  const getTypeBadge = (item) => {
+    const type = typeof item === 'string' ? item : item?.type;
+    const url = typeof item === 'object' ? (item?.url || '') : '';
+
+    if (url.includes('docs.google.com/videos') || (type === 'google_doc' && url.includes('video'))) {
+      return {
+        label: 'Google Vids Project',
+        className: 'github-badge-docs',
+        icon: Play,
+        color: '#ea4335',
+        dot: '#ef4444',
+        btnText: 'เปิดชมวิดีโอบน Google Vids'
+      };
+    }
+    if (type === 'google_docs' || type === 'google_doc') {
       return {
         label: 'Google Docs Strategy',
         className: 'github-badge-docs',
@@ -572,14 +616,24 @@ function GeminiArtifactsHub() {
         btnText: 'เปิดอ่านเอกสาร Google Docs'
       };
     }
-    if (type === 'custom_gem') {
+    if (type === 'meta_ai') {
       return {
-        label: 'Hospital Custom Gem',
+        label: 'Meta AI Video Studio',
+        className: 'github-badge-gem',
+        icon: Play,
+        color: '#0284c7',
+        dot: '#38bdf8',
+        btnText: 'เปิดชมผลงานบน Meta AI'
+      };
+    }
+    if (type === 'custom_gem' || type === 'gemini_gem') {
+      return {
+        label: url.includes('chatgpt.com') ? 'AI Agent Studio (GPTs)' : 'Hospital Custom Gem',
         className: 'github-badge-gem',
         icon: Bot,
         color: '#d97706',
         dot: '#f59e0b',
-        btnText: 'เปิดใช้งาน Custom Gem Agent'
+        btnText: 'เปิดใช้งาน AI Agent / Gem'
       };
     }
     return {
@@ -637,13 +691,19 @@ function GeminiArtifactsHub() {
             className={`github-tab-btn docs ${typeFilter === 'google_docs' ? 'active' : ''}`}
             onClick={() => setTypeFilter('google_docs')}
           >
-            <FileText size={13} /> Google Docs ({counts.docs})
+            <FileText size={13} /> Google Docs/Vids ({counts.docs})
           </button>
           <button
             className={`github-tab-btn gems ${typeFilter === 'custom_gem' ? 'active' : ''}`}
             onClick={() => setTypeFilter('custom_gem')}
           >
-            <Bot size={13} /> Custom Gems ({counts.gems})
+            <Bot size={13} /> Custom Gems / GPTs ({counts.gems})
+          </button>
+          <button
+            className={`github-tab-btn meta ${typeFilter === 'meta_ai' ? 'active' : ''}`}
+            onClick={() => setTypeFilter('meta_ai')}
+          >
+            <Play size={13} /> Meta AI ({counts.meta})
           </button>
         </div>
       </div>
@@ -675,6 +735,12 @@ function GeminiArtifactsHub() {
         >
           DAY 3 (21 ก.ย.) ({counts.day3})
         </button>
+        <button
+          className={`github-day-pill day4 ${dayFilter === 'Day 4' ? 'active' : ''}`}
+          onClick={() => setDayFilter('Day 4')}
+        >
+          DAY 4 (23 ก.ย.) ({counts.day4})
+        </button>
       </div>
 
       {/* Department Filter Pills */}
@@ -694,7 +760,7 @@ function GeminiArtifactsHub() {
       {/* Artifact Cards Grid */}
       <div className="github-cards-grid">
         {filteredLinks.map((item) => {
-          const typeMeta = getTypeBadge(item.type);
+          const typeMeta = getTypeBadge(item);
           const TypeIcon = typeMeta.icon;
           const authorInitial = (item.authorName || item.author || 'V').trim().charAt(0);
 
@@ -803,14 +869,14 @@ function ExecutiveFormalReport({ onBack }) {
               <span style={{ color: '#0284c7', fontSize: '1.65rem', fontWeight: '800' }}>(AI FOR PACC + ASD + CXTSP)</span>
             </h1>
             <p style={{ color: '#475569', fontSize: '0.98rem', lineHeight: 1.6, maxWidth: '680px', marginTop: '1rem' }}>
-              สรุปผลการจัดอบรมเชิงปฏิบัติการบุคลากรทางการแพทย์ พยาบาล และระบบสนับสนุน 3 วันเต็ม (14, 18 & 21 กันยายน 2569) เพื่อยกระดับความเร็วบริการ คืนเวลาปฏิบัติงาน และมุ่งสู่เป้าหมายรายได้ 10,000 ล้านบาท
+              สรุปผลการจัดอบรมเชิงปฏิบัติการบุคลากรทางการแพทย์ พยาบาล และระบบสนับสนุน 4 วันเต็ม (14, 18, 21 & 23 กันยายน 2569) เพื่อยกระดับความเร็วบริการ คืนเวลาปฏิบัติงาน และมุ่งสู่เป้าหมายรายได้ 10,000 ล้านบาท
             </p>
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '1.2rem', background: '#f8fafc', padding: '1.4rem', borderRadius: '14px', border: '1px solid #e2e8f0' }}>
             <div>
               <small style={{ color: '#64748b', fontSize: '0.72rem', display: 'block', textTransform: 'uppercase', fontWeight: 700 }}>ช่วงเวลาดำเนินการ</small>
-              <strong style={{ color: '#0c265c', fontSize: '0.92rem' }}>14, 18 & 21 กันยายน 2569</strong>
+              <strong style={{ color: '#0c265c', fontSize: '0.92rem' }}>14, 18, 21 & 23 กันยายน 2569</strong>
             </div>
             <div>
               <small style={{ color: '#64748b', fontSize: '0.72rem', display: 'block', textTransform: 'uppercase', fontWeight: 700 }}>หน่วยงานรับผิดชอบ</small>
@@ -1306,7 +1372,7 @@ function ExecutiveFormalReport({ onBack }) {
           </div>
 
           <p style={{ color: '#475569', fontSize: '0.85rem', lineHeight: 1.5, marginBottom: '0.8rem' }}>
-            กรอบการบริหารความเสี่ยง มาตรฐานความปลอดภัยข้อมูลทางคลินิก JCI v8 และการคุ้มครองข้อมูลส่วนบุคคล (PDPA) ในการสัมมนาเชิงปฏิบัติการ (14, 18 & 21 กันยายน 2569)
+            กรอบการบริหารความเสี่ยง มาตรฐานความปลอดภัยข้อมูลทางคลินิก JCI v8, การคุ้มครองข้อมูลส่วนบุคคล (PDPA) และมาตรฐานโฆษณาทางการแพทย์ มาตรา 38 ในการสัมมนาเชิงปฏิบัติการ (14, 18, 21 & 23 กันยายน 2569)
           </p>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '0.8rem', marginBottom: '1rem' }}>
@@ -1498,7 +1564,7 @@ function ExecutiveFormalReport({ onBack }) {
               <div className="signature-line" />
               <span className="sig-name">นพ. ชัยสิทธิ์ คุปต์วิวัฒน์</span>
               <span className="sig-role">ประธานเจ้าหน้าที่บริหารฝ่ายปฏิบัติการ / Chief Operating Officer</span>
-              <span className="sig-date">วันที่: 21 กันยายน 2569</span>
+              <span className="sig-date">วันที่: 23 กันยายน 2569</span>
             </div>
 
             <div className="signature-box">
@@ -1506,7 +1572,7 @@ function ExecutiveFormalReport({ onBack }) {
               <div className="signature-line" />
               <span className="sig-name">นพ. สมคิด อุดมกิจปัญญา</span>
               <span className="sig-role">ผู้อำนวยการฝ่ายการแพทย์ / Medical Director</span>
-              <span className="sig-date">วันที่: 21 กันยายน 2569</span>
+              <span className="sig-date">วันที่: 23 กันยายน 2569</span>
             </div>
 
             <div className="signature-box">
@@ -1514,7 +1580,7 @@ function ExecutiveFormalReport({ onBack }) {
               <div className="signature-line" />
               <span className="sig-name">ดร. ธีรดิตถ์ โพธิตระกูล</span>
               <span className="sig-role">หัวหน้าคณะทำงาน AI Strategy Transformation</span>
-              <span className="sig-date">วันที่: 21 กันยายน 2569</span>
+              <span className="sig-date">วันที่: 23 กันยายน 2569</span>
             </div>
           </div>
 
@@ -1578,6 +1644,7 @@ function App() {
   const day1Files = useMemo(() => filteredFiles.filter(i => i.day === 'Day 1'), [filteredFiles]);
   const day2Files = useMemo(() => filteredFiles.filter(i => i.day === 'Day 2'), [filteredFiles]);
   const day3Files = useMemo(() => filteredFiles.filter(i => i.day === 'Day 3'), [filteredFiles]);
+  const day4Files = useMemo(() => filteredFiles.filter(i => i.day === 'Day 4'), [filteredFiles]);
 
   const openPreview = (item) => setPreview(item);
 
@@ -1651,6 +1718,13 @@ function App() {
               <CalendarDays size={15} />
               <span>DAY 3 <small>(21 ก.ย. 2569)</small></span>
             </button>
+            <button
+              className={`day-tab day4 ${view === 'Day4' ? 'active' : ''}`}
+              onClick={() => setView('Day4')}
+            >
+              <CalendarDays size={15} />
+              <span>DAY 4 <small>(23 ก.ย. 2569)</small></span>
+            </button>
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
@@ -1684,12 +1758,12 @@ function App() {
               <section className="hero">
                 <div className="hero-copy">
                   <p className="eyebrow">VEJTHANI HOSPITAL HEALTHCARE IT & AI STRATEGY</p>
-                  <h1>รายงานสรุปยุทธศาสตร์ AI<br /><span>กลุ่ม AI for PACC + ASD + CXTSP (14, 18 & 21 กันยายน 2569)</span></h1>
-                  <p className="lead">โครงการขับเคลื่อนนวัตกรรม AI โรงพยาบาลเวชธานี ตลอดการอบรม 3 วันเต็ม (ข้อมูลหลักฐาน {sourceFiles.length} รายการ ตรวจสอบถูกต้อง 100%)</p>
+                  <h1>รายงานสรุปยุทธศาสตร์ AI<br /><span>กลุ่ม AI for PACC + ASD + CXTSP (14, 18, 21 & 23 กันยายน 2569)</span></h1>
+                  <p className="lead">โครงการขับเคลื่อนนวัตกรรม AI โรงพยาบาลเวชธานี ตลอดการอบรม 4 วันเต็ม (ข้อมูลหลักฐาน {sourceFiles.length} รายการ ตรวจสอบถูกต้อง 100%)</p>
                   <div className="hero-meta">
                     <span><ShieldCheck size={16} /> ตรวจสอบจากโฟลเดอร์โครงการ 100%</span>
                     <span><FileText size={16} /> {sourceFiles.length} รายการหลักฐาน</span>
-                    <span><CalendarDays size={16} /> อบรม 3 วัน (14, 18 & 21 ก.ย. 2569)</span>
+                    <span><CalendarDays size={16} /> อบรม 4 วัน (14, 18, 21 & 23 ก.ย. 2569)</span>
                   </div>
                 </div>
               </section>
@@ -1698,6 +1772,7 @@ function App() {
                 <article><span className="stat-icon orange"><CalendarDays /></span><div><strong>{day1Files.length}</strong><small>DAY 1 (14 ก.ย. 2569)</small></div></article>
                 <article><span className="stat-icon purple"><CalendarDays /></span><div><strong>{day2Files.length}</strong><small>DAY 2 (18 ก.ย. 2569)</small></div></article>
                 <article><span className="stat-icon cyan" style={{ background: '#ecfeff', color: '#0891b2' }}><CalendarDays /></span><div><strong>{day3Files.length}</strong><small>DAY 3 (21 ก.ย. 2569)</small></div></article>
+                <article><span className="stat-icon emerald" style={{ background: '#ecfdf5', color: '#059669' }}><CalendarDays /></span><div><strong>{day4Files.length}</strong><small>DAY 4 (23 ก.ย. 2569)</small></div></article>
                 <article><span className="stat-icon blue"><ImageIcon /></span><div><strong>{portfolioItems.length}</strong><small>พอร์ตโฟลิโอผลงาน</small></div></article>
                 <article><span className="stat-icon green"><FileSpreadsheet /></span><div><strong>{documents.length}</strong><small>คลังเอกสาร & รายงาน</small></div></article>
               </section>
@@ -1758,6 +1833,227 @@ function App() {
               <ImageGallery title="พอร์ตโฟลิโอและภาพผลงาน DAY 3 (Vibe Code & AI Prompt Shortcuts)" items={portfolioItems.filter(i => i.day === 'Day 3')} openPreview={openPreview} />
               <FileGallery title="คลังเอกสารและเครื่องมือยุทธศาสตร์ DAY 3 (17 Apps Portfolio & Voice Master Prompts)" items={documents.filter(i => i.day === 'Day 3')} openFile={(item) => window.open(fileUrl(item), '_blank', 'noopener,noreferrer')} />
               <AtmosphereGallery images={atmospherePhotos.filter(i => i.day === 'Day 3')} videos={atmosphereVideos.filter(i => i.day === 'Day 3')} openPreview={openPreview} openVideo={setVideoPreview} />
+            </div>
+          )}
+
+          {view === 'Day4' && (
+            <div className="works-galleries">
+              <div className="page-heading">
+                <div>
+                  <p className="eyebrow">DAY 4 WORKSHOP & AI VIDEO STUDIO</p>
+                  <h2>DAY 4: 23 กันยายน 2569 (AI Agent VDO & Healthcare Video Studio)</h2>
+                </div>
+                <span className="result-count">{day4Files.length} รายการ</span>
+              </div>
+
+              {/* Day 4 Executive Highlight Card */}
+              <div style={{
+                background: 'linear-gradient(135deg, #064e3b 0%, #047857 50%, #059669 100%)',
+                color: '#ffffff',
+                padding: '2rem',
+                borderRadius: '20px',
+                marginBottom: '2rem',
+                boxShadow: '0 10px 25px -5px rgba(5, 150, 105, 0.3)'
+              }}>
+                <span style={{
+                  background: 'rgba(255,255,255,0.2)',
+                  color: '#ffffff',
+                  fontSize: '0.75rem',
+                  fontWeight: 800,
+                  padding: '0.35rem 0.8rem',
+                  borderRadius: '999px',
+                  display: 'inline-block',
+                  marginBottom: '1rem',
+                  letterSpacing: '0.05em'
+                }}>
+                  🎬 CINEMATIC HEALTHCARE AI VIDEO & PROMPT ENGINEERING
+                </span>
+                <h3 style={{ fontSize: '1.5rem', fontWeight: 900, marginBottom: '0.75rem', color: '#ffffff' }}>
+                  การปฏิวัติการผลิตสื่อวิดีโอทางการแพทย์ระดับฮอลลีวูดด้วย AI Agent VDO
+                </h3>
+                <p style={{ color: '#d1fae5', fontSize: '0.95rem', lineHeight: 1.6, maxWidth: '900px', marginBottom: '1.5rem' }}>
+                  การสัมมนาเชิงปฏิบัติการ DAY 4 มุ่งเน้นการใช้ <b>Google Vids, Veo, Sora, HeyGen และ Meta AI</b> ร่วมกับโมเดล 12-Frame Storyboard Grid ในการสร้างสรรค์วิดีโอจำลองเสมือนจริง เช่น การผ่าตัดไตด้วยหุ่นยนต์ Da Vinci Xi, การบริหาร Revenue Marketing และการคุ้มครองตามเกณฑ์กฎหมายมาตรา 38
+                </p>
+
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '1rem' }}>
+                  <div style={{ background: 'rgba(255,255,255,0.1)', backdropFilter: 'blur(8px)', padding: '1rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.15)' }}>
+                    <strong style={{ display: 'block', fontSize: '0.9rem', marginBottom: '0.25rem' }}>🎥 12-Frame Storyboard Grid</strong>
+                    <small style={{ color: '#a7f3d0' }}>ออกแบบสตอรี่บอร์ด 12 ซีนครบวงจรทั้งกล้อง มุม แสง คำพูด และกราฟิก</small>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.1)', backdropFilter: 'blur(8px)', padding: '1rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.15)' }}>
+                    <strong style={{ display: 'block', fontSize: '0.9rem', marginBottom: '0.25rem' }}>🤖 Da Vinci Xi Robotic Surgery</strong>
+                    <small style={{ color: '#a7f3d0' }}>สร้าง Avatar แพทย์หญิงอธิบายเทคโนโลยีผ่าตัดไตเอกชนรายแรกของไทย</small>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.1)', backdropFilter: 'blur(8px)', padding: '1rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.15)' }}>
+                    <strong style={{ display: 'block', fontSize: '0.9rem', marginBottom: '0.25rem' }}>📈 Revenue Marketing Linkage</strong>
+                    <small style={{ color: '#a7f3d0' }}>เปลี่ยนตัวชี้วัดการตลาด (Like, View) เป็น Business Value (Inquiry, Revenue)</small>
+                  </div>
+                  <div style={{ background: 'rgba(255,255,255,0.1)', backdropFilter: 'blur(8px)', padding: '1rem', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.15)' }}>
+                    <strong style={{ display: 'block', fontSize: '0.9rem', marginBottom: '0.25rem' }}>⚖️ Section 38 Medical Ethics</strong>
+                    <small style={{ color: '#a7f3d0' }}>ควบคุมการโฆษณาตามกฎหมายและ PDPA ห้ามใช้คำโอ้อวดและต้องมีใบอนุญาต</small>
+                  </div>
+                </div>
+              </div>
+
+              {/* Day 4 Interactive Video Showcase */}
+              {atmosphereVideos.filter(i => i.day === 'Day 4').length > 0 && (
+                <div style={{ marginBottom: '2.5rem' }}>
+                  <div className="page-heading" style={{ marginBottom: '1rem' }}>
+                    <div>
+                      <p className="eyebrow">INTERACTIVE VIDEO SHOWCASE</p>
+                      <h2>คลังผลงานคลิปวิดีโอ AI ที่สร้างเสร็จสมบูรณ์ ({atmosphereVideos.filter(i => i.day === 'Day 4').length} คลิป)</h2>
+                    </div>
+                  </div>
+                  <div className="video-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '1.2rem' }}>
+                    {atmosphereVideos.filter(i => i.day === 'Day 4').map((vid) => (
+                      <div
+                        key={vid.file}
+                        className="video-card"
+                        onClick={() => setVideoPreview(vid)}
+                        style={{
+                          background: '#ffffff',
+                          borderRadius: '16px',
+                          overflow: 'hidden',
+                          boxShadow: '0 4px 14px rgba(0,0,0,0.06)',
+                          cursor: 'pointer',
+                          border: '1px solid #e2e8f0',
+                          transition: 'transform 0.2s ease, box-shadow 0.2s ease'
+                        }}
+                      >
+                        <div style={{ position: 'relative', background: '#0f172a', aspectRatio: '16/9', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                          <video src={fileUrl(vid)} style={{ width: '100%', height: '100%', objectFit: 'cover' }} muted preload="metadata" />
+                          <div style={{
+                            position: 'absolute',
+                            width: '44px',
+                            height: '44px',
+                            borderRadius: '50%',
+                            background: 'rgba(5, 150, 105, 0.9)',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            color: '#ffffff',
+                            boxShadow: '0 4px 12px rgba(0,0,0,0.3)'
+                          }}>
+                            <Play size={22} style={{ marginLeft: '3px' }} />
+                          </div>
+                          <span style={{
+                            position: 'absolute',
+                            bottom: '8px',
+                            right: '8px',
+                            background: 'rgba(0,0,0,0.75)',
+                            color: '#ffffff',
+                            fontSize: '0.72rem',
+                            padding: '2px 6px',
+                            borderRadius: '4px',
+                            fontWeight: 600
+                          }}>
+                            MP4 VIDEO
+                          </span>
+                        </div>
+                        <div style={{ padding: '1rem' }}>
+                          <strong style={{ fontSize: '0.9rem', color: '#0f172a', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden', lineHeight: 1.4 }}>
+                            {displayTitle(vid)}
+                          </strong>
+                          <p style={{ color: '#64748b', fontSize: '0.78rem', marginTop: '0.35rem' }}>คลิกเพื่อเปิดเล่นวิดีโอแบบเต็มจอ</p>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Day 4 Google Vids & Meta AI Links Quick Bar */}
+              <div style={{ background: '#f8fafc', padding: '1.5rem', borderRadius: '16px', border: '1px solid #e2e8f0', marginBottom: '2.5rem' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
+                  <div>
+                    <strong style={{ color: '#0c265c', fontSize: '1.05rem', display: 'block' }}>🌐 ลิงก์โครงงาน Google Vids & Meta AI จากผู้เข้าอบรม Day 4</strong>
+                    <small style={{ color: '#64748b' }}>รับชมผลงานที่ผู้เข้าอบรมสร้างและแชร์บน Cloud ตรงจากห้องเรียน</small>
+                  </div>
+                  <button
+                    onClick={() => { setView('Gemini'); }}
+                    style={{
+                      background: '#059669',
+                      color: '#ffffff',
+                      border: 'none',
+                      padding: '0.45rem 0.9rem',
+                      borderRadius: '8px',
+                      fontSize: '0.8rem',
+                      fontWeight: 700,
+                      cursor: 'pointer',
+                      display: 'inline-flex',
+                      alignItems: 'center',
+                      gap: '0.35rem'
+                    }}
+                  >
+                    ดูทั้งหมดใน AI References Hub ({geminiLinks.filter(l => l.day === 'Day 4').length}) <ArrowUpRight size={14} />
+                  </button>
+                </div>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '0.8rem' }}>
+                  {geminiLinks.filter(l => l.day === 'Day 4').map(link => (
+                    <a
+                      key={link.id}
+                      href={link.url}
+                      target="_blank"
+                      rel="noreferrer"
+                      style={{
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'space-between',
+                        padding: '0.75rem 1rem',
+                        background: '#ffffff',
+                        border: '1px solid #cbd5e1',
+                        borderRadius: '10px',
+                        textDecoration: 'none',
+                        color: '#0f172a',
+                        fontSize: '0.85rem'
+                      }}
+                    >
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', overflow: 'hidden' }}>
+                        <span style={{
+                          width: '28px',
+                          height: '28px',
+                          borderRadius: '6px',
+                          background: link.url.includes('google.com') ? '#fef2f2' : '#f0f9ff',
+                          color: link.url.includes('google.com') ? '#ef4444' : '#0284c7',
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'center',
+                          flexShrink: 0
+                        }}>
+                          <Play size={14} />
+                        </span>
+                        <div style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+                          <strong style={{ display: 'block', fontSize: '0.82rem', overflow: 'hidden', textOverflow: 'ellipsis' }}>{link.title}</strong>
+                          <small style={{ color: '#64748b', fontSize: '0.72rem' }}>โดย {link.authorName || link.author}</small>
+                        </div>
+                      </div>
+                      <ExternalLink size={14} style={{ color: '#94a3b8', flexShrink: 0, marginLeft: '0.5rem' }} />
+                    </a>
+                  ))}
+                </div>
+              </div>
+
+              {/* Day 4 Storyboards & Infographics Gallery */}
+              <ImageGallery
+                title="สตอรี่บอร์ด 12 ช่อง และผังกระบวนการยุทธศาสตร์ DAY 4 (12-Frame Storyboards & Infographics)"
+                items={portfolioItems.filter(i => i.day === 'Day 4')}
+                openPreview={openPreview}
+              />
+
+              {/* Day 4 Video Script Documents (Word) */}
+              <FileGallery
+                title="คลังสคริปต์วิดีโอ 30 หัวข้อ 3 แผนก (ASD, CXTSP, PACC) DAY 4 (Word Documents)"
+                items={documents.filter(i => i.day === 'Day 4')}
+                openFile={(item) => window.open(fileUrl(item), '_blank', 'noopener,noreferrer')}
+              />
+
+              {/* Day 4 Training Atmosphere */}
+              <AtmosphereGallery
+                images={atmospherePhotos.filter(i => i.day === 'Day 4')}
+                videos={[]}
+                openPreview={openPreview}
+                openVideo={setVideoPreview}
+              />
             </div>
           )}
 

@@ -838,5 +838,313 @@ export const geminiLinks = [
     "date": "21 ก.ย. 2569 12:28",
     "day": "Day 3",
     "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-43",
+    "url": "https://chatgpt.com/g/g-6a4314fedf6c8191884266044f37911e-healthcare-ai-video-studio",
+    "author": "Innirin604",
+    "authorName": "อ.เปียโน / AI Video Director",
+    "role": "Healthcare AI Video Specialist & Prompt Architect",
+    "department": "AI Strategy & Clinical Production",
+    "title": "GPTs: Healthcare AI Video Studio (โรงพยาบาลเวชธานี)",
+    "description": "เครื่องมือสร้าง Prompt ผลิตวิดีโอการแพทย์ระดับภาพยนตร์ 12-Frame Storyboard สำหรับ Google Vids, Veo, Sora, HeyGen และ Runway",
+    "type": "gemini_gem",
+    "typeLabel": "AI Agent Studio",
+    "tags": [
+      "Video AI",
+      "Storyboard",
+      "Healthcare Marketing",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 08:15",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-44",
+    "url": "https://gemini.google.com/gem/16bzRm61Ut02YsywtEKUxJwUPL5mnpaud?usp=sharing",
+    "author": "ชีพธรรม ไตร คำวิเศษณ์",
+    "authorName": "ชีพธรรม ไตรคำวิเศษณ์",
+    "role": "Lead AI Strategic Facilitator",
+    "department": "Executive AI Masterclass",
+    "title": "Gemini Custom Gem: AI Cinematic Video & Script Director",
+    "description": "Gem พิเศษสำหรับสั่งการผลิตวิดีโอการแพทย์ระดับฮอลลีวูด และสคริปต์ 20-30 วินาทีตามข้อกำหนดโรงพยาบาลเวชธานี",
+    "type": "gemini_gem",
+    "typeLabel": "Gemini Custom Gem",
+    "tags": [
+      "Custom Gem",
+      "Video Director",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 10:18",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-45",
+    "url": "https://docs.google.com/videos/d/1d5DzEKTB9dQQJy-LRxReXoBEL5RnYGwdUG12TMWB4C8/play?usp=sharing",
+    "author": "Jeena",
+    "authorName": "จีน่า (Jeena)",
+    "role": "Inquiry & Patient Journey Officer",
+    "department": "Patient Access Center (PACC)",
+    "title": "Google Vids Project: การสื่อสารเชื่อมโยง Patient Journey โรงพยาบาลเวชธานี",
+    "description": "วิดีโอนำเสนอการเข้าถึงบริการผู้ป่วยและการส่งต่อข้อมูลอย่างเป็นระบบสร้างด้วย Google Vids",
+    "type": "google_doc",
+    "typeLabel": "Google Vids Showcase",
+    "tags": [
+      "Google Vids",
+      "PACC Journey",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 09:40",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-46",
+    "url": "https://docs.google.com/videos/d/11E7Q2rgzIz3QzaCyTRun24ZHBUEAsSWBvPrHQF6qZ2g/play?usp=sharing",
+    "author": "二シャー♥️",
+    "authorName": "ณิชา ขำสุนทร",
+    "role": "Customer Service Supervisor",
+    "department": "Customer Experience (CXTSP)",
+    "title": "Google Vids Project: CXTSP เปลี่ยน Complaint ให้เป็น Insight พัฒนาบริการ",
+    "description": "วิดีโอนำเสนอการจัดการข้อร้องเรียนและวิเคราะห์ Customer Experience สร้างด้วย Google Vids",
+    "type": "google_doc",
+    "typeLabel": "Google Vids Showcase",
+    "tags": [
+      "Google Vids",
+      "CXTSP Insight",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 09:40",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-47",
+    "url": "https://docs.google.com/videos/d/1cdz8XWWGs47yWJKluZk4gVyfUQjH1VYH_lY3hLdNEKw/play?usp=sharing",
+    "author": "Poo ~☀️",
+    "authorName": "รจนา ธรรมประสิทธิ์",
+    "role": "Medical Tourism & Aviation Referral Lead",
+    "department": "Patient Access Center (PACC)",
+    "title": "Google Vids Project: เบื้องหลังการดูแลอาคารสถานที่และความพร้อมของ รพ.เวชธานี",
+    "description": "วิดีโอการนำเสนอเบื้องหลังความปลอดภัยและสิ่งอำนวยความสะดวก 5 ดาว สร้างด้วย Google Vids",
+    "type": "google_doc",
+    "typeLabel": "Google Vids Showcase",
+    "tags": [
+      "Google Vids",
+      "ASD Facilities",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 09:42",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-48",
+    "url": "https://docs.google.com/videos/d/18xyb8NbBAG_hXQ3diDB8qdhfi6yI_DQ9oGVCQun0eso/play?usp=sharing",
+    "author": "Beer~Бир💕🐱🌷",
+    "authorName": "วรจันทร์ สุตันตานนท์",
+    "role": "Patient & Relative Apartment Manager",
+    "department": "Ancillary Support Services (ASD)",
+    "title": "Google Vids Project: ประสบการณ์พักฟื้นระดับพรีเมียมและการบริการ 6 ดาว",
+    "description": "วิดีโอคลิปถ่ายทอดมาตรฐานหอพักและสิ่งอำนวยความสะดวกผู้ป่วยเวชธานีสร้างด้วย Google Vids",
+    "type": "google_doc",
+    "typeLabel": "Google Vids Showcase",
+    "tags": [
+      "Google Vids",
+      "Residence Service",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 09:44",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-49",
+    "url": "https://docs.google.com/videos/d/1j4AXj2qJpWPns_h59z5Jza8CKA3AC-5f06FaoDclxPA/play?usp=sharing",
+    "author": "llu:LLuว",
+    "authorName": "ปาลิดา รอดทัศนา",
+    "role": "Therapeutic Catering Lead",
+    "department": "Ancillary Support Services (ASD)",
+    "title": "Google Vids Project: นวัตกรรมอาหารบำบัดโรคเฉพาะบุคคล (Therapeutic Catering)",
+    "description": "วิดีโอนำเสนอโภชนาการทางการแพทย์และบริการอาหารผู้ป่วยมาตรฐาน JCI สร้างด้วย Google Vids",
+    "type": "google_doc",
+    "typeLabel": "Google Vids Showcase",
+    "tags": [
+      "Google Vids",
+      "Catering Innovation",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 09:45",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-50",
+    "url": "https://docs.google.com/videos/d/1tKq5j-cvk6qG0kXmGWWPKHq9d9_AB0-Uy8f48hRUo1U/play?usp=sharing",
+    "author": "Nina",
+    "authorName": "นีน่า (Nina)",
+    "role": "Healthcare Data Analyst",
+    "department": "Data-Driven Healthcare Transformation",
+    "title": "Google Vids Project: การวิเคราะห์ข้อมูลและการลดต้นทุนโรงพยาบาลด้วย AI",
+    "description": "วิดีโอนำเสนอโฟลว์การบริหารต้นทุนและเพิ่มประสิทธิภาพการใช้ทรัพยากรสร้างด้วย Google Vids",
+    "type": "google_doc",
+    "typeLabel": "Google Vids Showcase",
+    "tags": [
+      "Google Vids",
+      "Cost Reduction",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 10:10",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-51",
+    "url": "https://docs.google.com/videos/d/1oeRL4YbB2oSH54ru7De5HyGoUmyNf3LXW9ArWkHaE_Q/play?usp=sharing",
+    "author": "ชีพธรรม ไตร คำวิเศษณ์",
+    "authorName": "ชีพธรรม ไตรคำวิเศษณ์",
+    "role": "Lead AI Strategic Facilitator",
+    "department": "Executive AI Masterclass",
+    "title": "Google Vids Project: มาสเตอร์วิดีโอเทรนนิ่ง AI Video Studio โรงพยาบาลเวชธานี",
+    "description": "วิดีโอคลิปต้นแบบการผลิตสื่อการแพทย์ระดับมืออาชีพด้วย Google Vids",
+    "type": "google_doc",
+    "typeLabel": "Google Vids Showcase",
+    "tags": [
+      "Google Vids",
+      "Master Video",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 10:47",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-52",
+    "url": "https://meta.ai/share/m/ynh7ey5uCF?utm_source=ios_cl&open_in_meta_ai=true",
+    "author": "二シャー♥️",
+    "authorName": "ณิชา ขำสุนทร",
+    "role": "Customer Service Supervisor",
+    "department": "Customer Experience (CXTSP)",
+    "title": "Meta AI Video: การสื่อสารบริการและแนะนำศูนย์เฉพาะทางเวชธานี (1)",
+    "description": "คลิปวิดีโอ AI ที่สร้างผ่าน Meta AI จากชุดคำสั่งและสตอรี่บอร์ดแผนก CXTSP",
+    "type": "meta_ai",
+    "typeLabel": "Meta AI Video",
+    "tags": [
+      "Meta AI",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 12:30",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-53",
+    "url": "https://www.meta.ai/share/m/yI4cbShlDI?utm_source=android_meta_ai_sl&open_in_meta_ai=true",
+    "author": "Beer~Бир💕🐱🌷",
+    "authorName": "วรจันทร์ สุตันตานนท์",
+    "role": "Patient & Relative Apartment Manager",
+    "department": "Ancillary Support Services (ASD)",
+    "title": "Meta AI Video: การนำเสนอห้องพักผู้ป่วยและมาตรฐานความปลอดภัย (2)",
+    "description": "คลิปวิดีโอ AI ที่สร้างผ่าน Meta AI จากชุดคำสั่งและสตอรี่บอร์ดแผนก ASD",
+    "type": "meta_ai",
+    "typeLabel": "Meta AI Video",
+    "tags": [
+      "Meta AI",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 12:32",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-54",
+    "url": "https://meta.ai/share/m/VBUcrpJJys?utm_source=ios_cl&open_in_meta_ai=true",
+    "author": "llu:LLuว",
+    "authorName": "ปาลิดา รอดทัศนา",
+    "role": "Therapeutic Catering Lead",
+    "department": "Ancillary Support Services (ASD)",
+    "title": "Meta AI Video: นวัตกรรมโภชนาการการแพทย์เฉพาะทาง (3)",
+    "description": "คลิปวิดีโอ AI ที่สร้างผ่าน Meta AI จากชุดคำสั่งและสตอรี่บอร์ดแผนก ASD",
+    "type": "meta_ai",
+    "typeLabel": "Meta AI Video",
+    "tags": [
+      "Meta AI",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 12:32",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-55",
+    "url": "https://meta.ai/share/m/eYctAOWzns?utm_source=ios_cl&open_in_meta_ai=true",
+    "author": "Poo ~☀️",
+    "authorName": "รจนา ธรรมประสิทธิ์",
+    "role": "Medical Tourism & Aviation Referral Lead",
+    "department": "Patient Access Center (PACC)",
+    "title": "Meta AI Video: บริการรับส่งผู้ป่วยและการดูแลแบบไร้รอยต่อ (4)",
+    "description": "คลิปวิดีโอ AI ที่สร้างผ่าน Meta AI จากชุดคำสั่งและสตอรี่บอร์ดแผนก PACC",
+    "type": "meta_ai",
+    "typeLabel": "Meta AI Video",
+    "tags": [
+      "Meta AI",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 12:34",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-56",
+    "url": "https://meta.ai/share/m/tHuz2QUtsL?utm_source=ios_cl&open_in_meta_ai=true",
+    "author": "二シャー♥️",
+    "authorName": "ณิชา ขำสุนทร",
+    "role": "Customer Service Supervisor",
+    "department": "Customer Experience (CXTSP)",
+    "title": "Meta AI Video: การสื่อสาร Revenue Marketing และคุณค่าองค์กร (5)",
+    "description": "คลิปวิดีโอ AI ที่สร้างผ่าน Meta AI จำลองการสื่อสารเชิงยุทธศาสตร์การตลาด",
+    "type": "meta_ai",
+    "typeLabel": "Meta AI Video",
+    "tags": [
+      "Meta AI",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 12:44",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
+  },
+  {
+    "id": "gem-57",
+    "url": "https://meta.ai/share/m/wR6iEmeXtE?utm_source=ios_cl&open_in_meta_ai=true",
+    "author": "Jeena",
+    "authorName": "จีน่า (Jeena)",
+    "role": "Inquiry & Patient Journey Officer",
+    "department": "Patient Access Center (PACC)",
+    "title": "Meta AI Video: การบริการด่านหน้าและการต้อนรับระดับ 6 ดาว (6)",
+    "description": "คลิปวิดีโอ AI ที่สร้างผ่าน Meta AI นำเสนอความเป็นเลิศด้านบริการโรงพยาบาลเวชธานี",
+    "type": "meta_ai",
+    "typeLabel": "Meta AI Video",
+    "tags": [
+      "Meta AI",
+      "Video AI",
+      "Day 4 AI"
+    ],
+    "date": "23 ก.ย. 2569 12:44",
+    "day": "Day 4",
+    "source": "[LINE]AI for PACC+ASD+CXTSP 2026.txt"
   }
 ];

@@ -248,6 +248,11 @@ button { cursor: pointer; border: none; }
   box-shadow: 0 4px 14px rgba(8, 145, 178, 0.3);
 }
 
+.day-tab.day4.active {
+  background: linear-gradient(135deg, #0c265c, #059669);
+  box-shadow: 0 4px 14px rgba(5, 150, 105, 0.3);
+}
+
 main {
   padding: 2rem 2.5rem;
   max-width: 1400px;
@@ -1583,6 +1588,12 @@ main {
   color: #ffffff;
 }
 
+.github-day-pill.day4.active {
+  background: #059669;
+  border-color: #059669;
+  color: #ffffff;
+}
+
 .github-dept-bar {
   display: flex;
   align-items: center;
@@ -1706,6 +1717,12 @@ main {
   background: #ecfeff;
   color: #0e7490;
   border: 1px solid #a5f3fc;
+}
+
+.github-day-badge.day4 {
+  background: #ecfdf5;
+  color: #047857;
+  border: 1px solid #a7f3d0;
 }
 
 .verified-check {
